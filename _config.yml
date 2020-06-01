@@ -56,3 +56,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - tag_cloud_tag
+ - tag_page_generator
+ - tag_page
