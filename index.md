@@ -7,4 +7,3 @@
 #
 layout: home
 ---
-{% include archive.html %}
