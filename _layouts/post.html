@@ -25,11 +25,20 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
     </header>
-    
-<p class="meta">
-    <span>Posted by {{ page.author }} on {{ page.date }}.</span>
-    {% include read_time.html content=content %}
-</p>
+
+    {% for post in paginator.posts %}
+    <div class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+        </a>
+        <p class="post-meta">
+            <span>Posted by {{ post.author }} on {{ post.date }}.</span>
+            {% include read-time.html content=post.content %}
+        </p>
+    </div>
+    <hr>
+    {% endfor %}
+
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
