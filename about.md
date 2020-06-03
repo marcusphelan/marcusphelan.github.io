@@ -7,7 +7,7 @@ tipue_search_active: true
 
 This is a blog mainly about reading and writing, from book reviews (of sorts) to tips on typesetting. It also covers technical topics and popular science as well as music, food and photography. Nice stuff.
 
-Bread and crushed ice are both good on their own however their combination in a sandwich is not appealing. The original tagline for the blog was _A disjointed union of unrelated opinions_ but it sounded self-deprecating so I changed it. New concepts for writing sometimes do come from unusual combinations, reached via circuitous routes. A bit like the frog in the arcade game _Frogger_. Sometimes you plan the hops, sometimes you need a leap of faith. 
+The original tagline for the blog was _A disjointed union of unrelated ideas_ but it sounded self-deprecating so I changed it. New concepts for writing sometimes do come from unusual combinations, reached via circuitous routes- happy accidents at the interchange between ideas.
 
 My writing projects may pop up here, or at least some of the concepts I'm developing for them. Let me know what you're writing (and reading) too!  
 
