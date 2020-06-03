@@ -5,7 +5,7 @@ permalink: /about/
 tipue_search_active: true
 ---
 
-This is a blog mainly about reading and writing, from book reviews (of sorts) to tips on typesetting. It also covers technical topics and popular science as well as music, food and photography. Nice stuff.
+This is a blog mainly about reading and writing, from book reviews (of sorts) to tips on typesetting. It covers technical topics and popular science as well as music, food and photography. Nice stuff.
 
 The original tagline for this blog was _A disjointed union of unrelated ideas_ but it sounded self-deprecating so I changed it. New concepts for writing sometimes come from unusual combinations, via circuitous routes- happy accidents at the interchange of ideas.
 
