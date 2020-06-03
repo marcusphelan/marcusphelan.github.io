@@ -9,11 +9,11 @@ This is a blog mainly about reading and writing, from book reviews (of sorts) to
 
 Bread and crushed ice are both very good on their own but their combination in a sandwich is not appealing. The original tagline for the blog was _A disjointed union of unrelated opinions_ but it sounded self-deprecating so I changed it. New concepts for writing sometimes do come from unusual combinations reached via circuitous routes. A bit like the frog in the arcade game _Frogger_. Sometimes you plan the hops, sometimes you need a leap of faith. 
 
-My writing projects may pop up here, or at least some of the concepts that I'm developing for them. Let me know what you're writing (and reading) too!  
+My writing projects may pop up here, or at least some of the concepts I'm developing for them. Let me know what you're writing (and reading) too!  
 
-This static site created using [Jekyll](https://jekyllrb.com/ "Jekyll") and the [Minima theme](https://github.com/jekyll/minima/ "Minima Jekyll theme"). 
+This static site was created using [Jekyll](https://jekyllrb.com/ "Jekyll") and the [Minima theme](https://github.com/jekyll/minima/ "Minima Jekyll theme"). 
 
 
-Thanks to the following for their helpful tutorials which were needed to get it set up: 
+Thanks to the following for their helpful tutorials, which were needed to get it set up: 
 
 [Long Qian](https://longqian.me "Long Qian"), [jekylltools](https://github.com/jekylltools/jekyll-tipue-search "jekylltools"), [Simon Johnston](https://simonkjohnston.life/ "Randomizer"), [The Programming Historian](https://programminghistorian.org/ "The Programming Historian") and [Jonathan McGlone](http://jmcglone.com/ "Jonathan McGlone")
