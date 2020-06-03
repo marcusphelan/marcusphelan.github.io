@@ -52,7 +52,7 @@ minima:
 
 # Build settings
 theme: minima
-
+logo: logo.png
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
