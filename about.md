@@ -14,4 +14,9 @@ This static site was created with [Jekyll](https://jekyllrb.com/ "Jekyll") using
 
 Thanks to the following for their tutorials, which were helpful in setting up: 
 
-[Long Qian](https://longqian.me "Long Qian"), [jekylltools](https://github.com/jekylltools/jekyll-tipue-search "jekylltools"), [Simon Johnston](https://simonkjohnston.life/ "Randomizer"), [The Programming Historian](https://programminghistorian.org/ "The Programming Historian"), [Jonathan McGlone](http://jmcglone.com/ "Jonathan McGlone") and [Thanh Tran](https://int3ractive.com/ "int3ractive")
+- [Long Qian](https://longqian.me "Long Qian")
+- [jekylltools](https://github.com/jekylltools/jekyll-tipue-search "jekylltools")
+- [Simon Johnston](https://simonkjohnston.life/ "Randomizer")
+- [The Programming Historian](https://programminghistorian.org/ "The Programming Historian")
+- [Jonathan McGlone](http://jmcglone.com/ "Jonathan McGlone") 
+- [Thanh Tran](https://int3ractive.com/ "int3ractive")
