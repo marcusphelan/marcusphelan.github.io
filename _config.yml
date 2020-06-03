@@ -4,7 +4,7 @@ author:
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A disjointed union of unrelated opinions.
-
+logo: logo.png
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -52,7 +52,7 @@ minima:
 
 # Build settings
 theme: minima
-logo: logo.png
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
