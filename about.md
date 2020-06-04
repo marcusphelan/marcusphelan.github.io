@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 tipue_search_active: true
 ---
+![image](/assets/images/profile.png)
 
 This blog is mainly about reading and writing, from book reviews (of sorts) to tips on typesetting. It covers technical topics and popular science as well as music, food and photography. Nice stuff.
 
