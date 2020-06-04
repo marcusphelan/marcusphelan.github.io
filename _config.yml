@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: marcus_phelan
-    github:  marcusphelan
+    # github:  marcusphelan
     linkedin: marcus-phelan-72a45078
     # devto: jekyll
     # dribbble: jekyll
