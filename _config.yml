@@ -1,10 +1,10 @@
-title: _allied lines_ 
+title: allied lines 
 name: Allied Lines
 author:
   name: Marcus Phelan
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Reading and wrtiting .
+  Articles about books and writing.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
