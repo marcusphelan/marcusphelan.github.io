@@ -12,7 +12,7 @@ My writing projects will pop up here, or at least some of the thoughts I'm devel
 
 This static site was created with [Jekyll](https://jekyllrb.com/ "Jekyll") using a modified `minima` theme. 
 
-My sincere thanks to the following for their tutorials, which were very helpful in setting up the site: 
+My sincere thanks to the following for their tutorials, which were very helpful in setting it up: 
 
 - [Long Qian](https://longqian.me "Long Qian")
 - [jekylltools](https://github.com/jekylltools/jekyll-tipue-search "jekylltools")
