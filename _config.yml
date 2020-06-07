@@ -5,13 +5,10 @@ author:
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
 
-# be sure that you use kramdown as markdown processor
-markdown: kramdown
-# configure kramdown
-kramdown:
-  parse_block_html: true
-  html_to_native: true
-  footnote_backlink: ‘&8617;’
+markdown: redcarpet
+redcarpet:
+  extensions: ["footnotes"]
+  
 url: "https://marcusphelan.com"
 show_excerpts: false # set to true to show excerpts on the homepage
 
