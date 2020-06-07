@@ -47,4 +47,8 @@ layout: default
 			{% include comments.html %}
 		{% endif %}
 
-    
+    <div class="post {{ page.class }}">
+      {% include item.html %}
+      {{ page.content }}
+      {% include comments.html %}
+    </div>

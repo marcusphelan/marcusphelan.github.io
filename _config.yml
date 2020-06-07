@@ -1,6 +1,6 @@
 title: /\\ allied lines 
 name: Allied Lines
-author:
+author: marcusphelan
   name: Marcus Phelan
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -58,3 +58,25 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jemoji
+emptyArray: []
+
+comments:
+  receiver: https://{{your-receiver-site}}/api/PostComment}}
+  
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: marcusphelan
+      commenting: open
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: marcusphelan
+      commenting: open
