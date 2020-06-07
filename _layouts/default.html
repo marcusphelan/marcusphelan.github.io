@@ -15,6 +15,9 @@
 
     {%- include footer.html -%}
 <p style="text-align:center;">&copy; <small>{{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.</small> </p>
+
+<script src="/js/jquery.min.js"></script>
+    {% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
   </body>
 
 </html>
