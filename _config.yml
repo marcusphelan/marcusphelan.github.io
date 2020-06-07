@@ -1,6 +1,6 @@
-title: /\\ allied lines 
+title: /\\ allied lines
 name: Allied Lines
-author: marcusphelan
+author:
   name: Marcus Phelan
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -62,7 +62,7 @@ emptyArray: []
 
 comments:
   receiver: https://{{your-receiver-site}}/api/PostComment}}
-  
+
 defaults:
   -
     scope:
@@ -70,7 +70,7 @@ defaults:
       type: pages
     values:
       layout: page
-      author: marcusphelan
+      author:
       commenting: open
   -
     scope:
@@ -78,5 +78,5 @@ defaults:
       type: posts
     values:
       layout: post
-      author: marcusphelan
+      author: 
       commenting: open
