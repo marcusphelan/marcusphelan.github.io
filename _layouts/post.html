@@ -52,3 +52,25 @@ layout: default
       {{ page.content }}
       {% include comments.html %}
     </div>
+
+
+    comments:
+      receiver: https://{{your-receiver-site}}/api/PostComment}}
+
+    defaults:
+      -
+        scope:
+          path: ''
+          type: pages
+        values:
+          layout: page
+          author:
+          commenting: open
+      -
+        scope:
+          path: '_posts'
+          type: posts
+        values:
+          layout: post
+          author:
+          commenting: open
