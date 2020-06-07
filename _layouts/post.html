@@ -43,12 +43,3 @@ layout: default
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 </span>
-{% if page.comments_id %}
-			{% include comments.html %}
-		{% endif %}
-
-    <div class="post {{ page.class }}">
-      {% include item.html %}
-      {{ page.content }}
-      {% include comments.html %}
-    </div>
