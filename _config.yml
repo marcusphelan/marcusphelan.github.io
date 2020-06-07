@@ -62,4 +62,4 @@ plugins:
 emptyArray: []
 
 comments:
-  receiver: https://{{your-receiver-site}}/api/PostComment}}
+  receiver: https://{{marcusphelan.com}}/api/PostComment}}
