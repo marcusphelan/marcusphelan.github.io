@@ -10,7 +10,7 @@ markdown: kramdown
 # configure kramdown
 kramdown:
   parse_block_html: true
-  
+  html_to_native: true
 url: "https://marcusphelan.com"
 show_excerpts: false # set to true to show excerpts on the homepage
 
