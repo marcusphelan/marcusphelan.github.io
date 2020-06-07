@@ -58,8 +58,3 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jemoji
-
-emptyArray: []
-
-comments:
-  receiver: https://{{marcusphelan.com}}/api/PostComment}}

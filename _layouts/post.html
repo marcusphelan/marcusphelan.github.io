@@ -52,23 +52,3 @@ layout: default
       {{ page.content }}
       {% include comments.html %}
     </div>
-
-
-
-    defaults:
-      -
-        scope:
-          path: ''
-          type: pages
-        values:
-          layout: page
-          author:
-          commenting: open
-      -
-        scope:
-          path: '_posts'
-          type: posts
-        values:
-          layout: post
-          author:
-          commenting: open
