@@ -23,7 +23,7 @@ Another _faux pas_, or rather blunder, to which writers invariably succumb is th
 
 Instead of cobbling together the same tired phrases Orwell invites writers to think about what they want to say and then to clarify and shorten the prose to make it clear and precise as possible. Political writing is admonished as being either bland and orthodox or an emotionally driven diatribe, and largely used in defence of the atrocities of war. The examples that Orwell provides such as 'pacification' and 'rectification of frontiers' seem tame by today's standards.
 
-The essay itself is short and can be read in under half an hour, and you might do better just to read it rather than this synopsis. However, I have endeavoured to reproduce the essence of the piece _mutatis mutandis_ without de-emphasising the core elements.[^1]
+The essay itself is short and can be read in under half an hour, and you might do better just to read it rather than this synopsis. However, I have endeavoured to reproduce the essence of the piece _mutatis mutandis_ without de-emphasising the core elements.How many offences did you recognise in this sentence?
 
 I will leave you with the six rules Orwell offers when in doubt about the effectiveness of one's writing:
 
@@ -37,6 +37,3 @@ I will leave you with the six rules Orwell offers when in doubt about the effect
 If you dislike lists then perhaps a single quotation by the author will suffice.
 
 >The great enemy of clear language is insincerity.
-
-
-[^1]: How many offences did you recognise in this sentence?
