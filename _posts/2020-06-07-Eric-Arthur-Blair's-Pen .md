@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eric Arthur Blair's Pen"
-categories:
+categories: misc
 author:
 - Marcus Phelan
 meta: "politics"
