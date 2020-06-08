@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eric Arthur Blair's Pen"
+title: "The Pen of Eric Arthur Blair"
 categories: misc
 author:
 - Marcus Phelan
