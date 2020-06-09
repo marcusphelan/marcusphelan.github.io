@@ -31,7 +31,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt }}<a href="{{ post.url | prepend: site.baseurl }}">Read more ...</a>
         {%- endif -%}
       </li>
       {%- endfor -%}
