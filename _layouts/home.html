@@ -27,9 +27,10 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}{% include read-time.html content=post.content %}
+            {{ post.title | escape }}
           </a>
         </h3>
+        {% include read-time.html content=post.content %}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}<a href="{{ post.url | prepend: site.baseurl }}">Read more ...</a>
         {%- endif -%}
