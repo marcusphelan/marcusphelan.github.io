@@ -32,7 +32,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
           <a href="{{ post.url | prepend: site.baseurl }}">Read more ...</a>
-          <span class="post-meta">{{ post.date | date: date_format }}:{% include read-time.html content=post.content %}</span>
+          <p><span class="post-meta">{{ post.date | date: date_format }}:{% include read-time.html content=post.content %}</span></p>  
         {%- endif -%}
       </li>
       {%- endfor -%}
