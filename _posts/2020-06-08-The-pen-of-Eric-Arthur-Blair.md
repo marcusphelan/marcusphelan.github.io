@@ -7,6 +7,7 @@ author:
 meta: "politics"
 tags: writing politics books
 last_modified_at: 2020-06-08 18:36
+image: "/assets/images/hen.png"
 ---
 
 Writing is an effective way of getting our message across. It offers clear advantages over speaking. By revising our words we can insert ideas at first forgotten, and revisit venomous polemics (in case anyone gets the ~~right~~ wrong idea). The quality of our written communications is surely dependant on this potential to change our mind.
