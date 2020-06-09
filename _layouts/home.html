@@ -28,11 +28,11 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+  <span class="post-meta">{{ post.date | date: date_format }}:{% include read-time.html content=post.content %}</span> 
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
           <a href="{{ post.url | prepend: site.baseurl }}">Read more ...</a>
-          <p><span class="post-meta">{{ post.date | date: date_format }}:{% include read-time.html content=post.content %}</span></p>  
         {%- endif -%}
       </li>
       {%- endfor -%}
