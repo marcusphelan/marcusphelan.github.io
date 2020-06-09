@@ -31,7 +31,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt }{% include read-time.html content=content %}}
         {%- endif -%}
       </li>
       {%- endfor -%}
