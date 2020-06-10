@@ -43,13 +43,6 @@ layout: default
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 </span>
-{%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
-
-{%- if page.last_modified_at -%}
-    Last updated: {%- page.last_modified_at | date: date_format -%}
-{%- else -%}
-    Last updated: {%- page.date | date: date_format -%}
-{%- endif -%}
 
 
 <div id="hyvor-talk-view"></div>
