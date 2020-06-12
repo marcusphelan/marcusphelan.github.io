@@ -8,7 +8,7 @@ meta: "politics"
 tags: writing politics books
 ---
 
-Writing is an effective way of getting our message across. It offers clear advantages over speaking. By revising our words we can insert ideas at first forgotten, and revisit venomous polemics (in case anyone gets the ~~right~~ wrong idea). The quality of our written communications is surely dependant on this potential to change our mind.
+Writing is an effective way of getting one's message across. It offers clear advantages over speaking. By revising our words we can insert ideas at first forgotten, and revisit venomous polemics (in case anyone gets the ~~right~~ wrong idea). The quality of our written communications is surely dependent on this potential to change our mind.
 
 Harry Guinness, writing in the [New York Times](https://www.nytimes.com/2020/04/07/smarter-living/how-to-edit-your-own-writing.html "How to Edit Your Own Writing"), tells of his former teacher Timothy Kreider’s favourite phrase about revision. He calls it _l’esprit d’escalier_ which translates as ‘the spirit of the staircase’. It describes that feeling one gets when thinking of the perfect thing to say in a conversation or an argument, after the fact. Think: driving home after a wedding when you imagine the perfect response to a drunken heckle during your best man’s speech. Or missing the opportunity to tell the navigator of an errant shopping trolley it’s not their fine motor skills you’re concerned about, but their lack of affability (insert preferred alternative). Writing gives us a chance to relive the moment over and again before it actually happens in the reader’s mind.
 
