@@ -4,7 +4,7 @@ author:
   name: Marcus Phelan
   email: marcusphelan82@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-show_excerpts: true  
+show_excerpts: true
 url: "https://marcusphelan.com"
 show_excerpts: true # set to true to show excerpts on the homepage
 timezone: Europe/Dublin
@@ -60,5 +60,4 @@ plugins:
  - jekyll-seo-tag
  - jemoji
  - jekyll-paginate
-    paginate: 5
-
+  
