@@ -30,7 +30,7 @@ If a visceral response to certain odours can emerge in early childhood and even 
 
 [^2]: Relating to or arising from non-genetic influences on gene expression.
 
-### Natures other noses 
+### Nature's other noses 
 Other species can offer inspiration in terms of a variety of olfactory systems serving alternative examples to embellish the human sense. Elephants, possessing the largest number of olfactory receptor (OR) genes, have been shown to detect different amounts in the source of an odour. They can even differentiate between [150 and 180 sunflower seeds](https://abcnews.go.com/International/elephants-sniff-larger-quantities-scent-study-finds/story?id=63456903), by scent alone, something that’s not easy to do by sight for humans. 
 
 The honeybee provides another interesting case study as a species that ‘sees’ using smell. I plan to revisit some these concepts in later posts. Edit: This post was delayed as I had to rescue a swarm from a plum tree near the apiary yesterday evening (I keep bees). Swarming is a phenomenon whereby the queen bee leaves the hive with a large cohort of worker bees with the intention of seeking out a new location to establish a colony. The beard-like bunch of bees in the photograph are the wanderlust colony, a superorganism held together by a unifying pheromone emitted by the queen bee. 
