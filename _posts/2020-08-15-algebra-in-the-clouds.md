@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Algebra in the clouds"
+title: "Algebra in the Clouds"
 categories: misc
 author:
 - Marcus Phelan
