@@ -7,7 +7,6 @@ author:
 meta: "complexity"
 tags: science philosophy nature music go food books writing
 ---
-
 ### Nature springs
 
 In Tom Stoppard's 1993 play _Arcadia_, Thomasina, a curious 13 year old, asks her tutor Septimus how come it is not possible to 'unstir' the jam in her rice pudding. No matter which direction it is stirred it becomes pinker. A metaphysical conversation ensues followed later in the play by a discussion about mathematics and nature, on the seed patterns in a sunflower. 
