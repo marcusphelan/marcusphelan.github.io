@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Algebra in the clouds"
@@ -7,7 +6,8 @@ author:
 - Marcus Phelan
 meta: "complexity"
 tags: science philosophy nature music go food books writing
---
+---
+
 
 ### Nature springs
 
