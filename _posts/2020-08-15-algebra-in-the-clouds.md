@@ -70,12 +70,12 @@ The preternatural display of florets in Romanesco broccoli, with its logarithmic
 
 [Richard Taylor,](https://blogs.uoregon.edu/richardtaylor/2016/02/08/fractal-analysis-of-jackson-pollocks-poured-paintings/) the US Physicist, first published his work describing the fractal nature of Jackson Pollock's paintings in 1999. The human visual system reacts the same way to Pollock's paintings as it does to fractals in nature or computer generated fractals as determined in numerous neuroscience experiments.[^2] 
 
-I don't own a Pollock. They're considered the worlds most expensive paintings at $500M each, so there's no problem managing expectations either. What I do have is my son's vinyl copy of the Stone Roses eponymous debut album. 
+I don't own a Pollock. They're considered the worlds most expensive paintings at $500M each, so there's no problem managing expectations either. What I do have is my son's vinyl copy of the Stone Roses' eponymous album. 
 
 ![Stone Roses](/assets/images/roses.png){: .center-image }
 
 
-John Squire, former Stone Roses guitarist has clearly been inspired by Pollock. The album cover of the band's volcanic first album, and much of it's early album art was created by Squire who has described his art work as ['rip-off'](https://www.theguardian.com/music/2004/may/13/stone-roses-john-squire-art). The title is _Bye Bye Badman_, also used as a track title on the album. 
+John Squire, former Stone Roses guitarist has clearly been inspired by Pollock. The album cover of the band's volcanic debut album, and much of it's early album art was created by Squire who later described his art work as a ['rip-off'](https://www.theguardian.com/music/2004/may/13/stone-roses-john-squire-art). The album art is called _Bye Bye Badman_, also used in a track title. 
 
 It was inspired by a TV documentary of the student riots in Paris in 1968, in which the protestors used lemons to counteract the effects of the tear gas.  The lime and limpid green[^3] colour in the cover was inspired by [Squire's visit to the Giant's Causeway](https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/) in County Antrim in Northern Ireland, a UNESCO World Heritage Site, a prime example of order in the chaos of nature itself, with its strange hexagonal basalt columns.
 
