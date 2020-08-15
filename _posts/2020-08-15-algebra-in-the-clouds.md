@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Algebra in the clouds"
