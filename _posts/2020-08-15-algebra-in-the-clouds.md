@@ -105,19 +105,3 @@ All we need to do is lift up the lids of our eyes.
 > Victor Hugo, Les Misérables
 
 ![Pudding bowl](/assets/images/bowl.png){: .center-image }
-
-CSS code:
-
-.iframe-container{
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; 
-  height: 0;
-}
-.iframe-container iframe{
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
