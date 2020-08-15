@@ -39,7 +39,7 @@ One of the remarkable things that fractals demonstrate  is that in a dynamic sys
 
 
 ### The surrounding game 
-Go is an ancient Chinese game played on a wooden board with black and white stones originally made from slate and shell. The rules are few and easy to learn, but the game is fiendishly difficult to master. Once again the appeal for me, before I learned to play, was the aesthetic experience. I originally read of the game in an account of Syd Barrett's life in Cambridge in the 1960s where it had been introduced from Germany, after having made the leap from Asia. When I saw first the game I was immediately hooked.
+Go is an ancient Chinese game played on a wooden board with black and white stones originally made from slate and shell. The rules are few and easy to learn, but the game is fiendishly difficult to master. Once again the appeal for me, before I learned to play, was the aesthetic experience. I originally read of the game in an account of Syd Barrett's life in Cambridge in the 1960s where it had been introduced from Germany, after having made the leap from Asia. When I first saw the game I was immediately hooked.
 
 > The rules of go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go.
 
