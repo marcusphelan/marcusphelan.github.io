@@ -90,7 +90,7 @@ Squire's shimmering recursive guitar riffs are a sonic recreation of his imagery
 
 
 ### Galaxies and mites
-Whether in the inquisitiveness of a child or the insight of a genius there is something undeniably compelling about our relationship with fractals. In nature or in art we are surrounded by their signals and within the noise. There are examples of fractals all around us. 
+Whether through the inquisitiveness of a child or the insight of a genius, there is something undeniably compelling about our relationship with fractals. In nature or in art we all detect the signals from the noise, we are surrounded by fractals. 
 
 All we need to do is lift up the lids of our eyes.
 
