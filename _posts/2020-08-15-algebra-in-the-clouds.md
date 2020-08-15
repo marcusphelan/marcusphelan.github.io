@@ -26,9 +26,10 @@ There is, however, no agreed standard meaning or scientific definition of comple
 The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French mathematician, in 1975.  He used it to describe how the rough appearance of nature was the outcome of ordered processes that could be explained using simple rules. I first became aware of fractals in a software application on the Commodore Amiga in the late 1980s. As I recall, it contained a Mandelbrot set and could render artificial landscapes generated using fractal geometry. What made it immediately compelling to me was its aesthetic appeal and my teenage self realised this was more than just a cool screensaver.
 
 [^1]: Based on the Latin work frāctus meaning broken.
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD2XgQOyCCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+
+{% include youtubePlayer.html id= PD2XgQOyCCk %}
+
 The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.html) that describes the Mandelbrot is shown below, where both Z and C are complex numbers.
 
 ![Equation](/assets/images/eqn.gif){: .center-image }
@@ -103,3 +104,19 @@ All we need to do is lift up the lids of our eyes.
 > Victor Hugo, Les Misérables
 
 ![Pudding bowl](/assets/images/bowl.png){: .center-image }
+
+CSS code:
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
