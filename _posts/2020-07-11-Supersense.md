@@ -21,7 +21,7 @@ There are two prevailing theories underpinning the science of olfaction. One is 
 [^1]: The branch of mechanics that deals with the mathematical description of the motion and interaction of subatomic particles, incorporating the concepts of quantization of energy, wave–particle duality, the uncertainty principle, and the correspondence principle. 
 
 
-Dawn Goldman tells us in [Colleen Walsh’s article](https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/) in the The Harvard Gazette that sense of smell which begins before birth, is the only fully developed sense in the fetus. It is closely linked to memory. According to Harvard’s Venkatesh Murthy from the same article:
+In [Colleen Walsh’s article](https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/) in the The Harvard Gazette she writes about the work of Dawn Goldman which tells us the sense of smell begins before birth and is the only fully developed sense in the fetus. It is also closely linked to memory. According to Harvard’s Venkatesh Murthy from the same article:
 
 > Smells are handled by the olfactory bulb, the structure in the front of the brain that sends information to the other areas of the body’s central command for further processing. Odors take a direct route to the limbic system, including the amygdala and the hippocampus, the regions related to emotion and memory. “The olfactory signals very quickly get to the limbic system,”
  
