@@ -5,6 +5,7 @@ categories: misc
 author:
 - Marcus Phelan
 meta: "complexity"
+youtubeId: PD2XgQOyCCk
 tags: science philosophy nature music go food books writing
 ---
 
@@ -27,8 +28,8 @@ The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French m
 
 [^1]: Based on the Latin work frāctus meaning broken.
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
-{% include youtubePlayer.html id="PD2XgQOyCCk" %}
 
 The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.html) that describes the Mandelbrot is shown below, where both Z and C are complex numbers.
 
