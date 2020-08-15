@@ -26,14 +26,15 @@ There is, however, no agreed standard meaning or scientific definition of comple
 The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French mathematician, in 1975.  He used it to describe how the rough appearance of nature was the outcome of ordered processes that could be explained using simple rules. I first became aware of fractals in a software application on the Commodore Amiga in the late 1980s. As I recall, it contained a Mandelbrot set and could render artificial landscapes generated using fractal geometry. What made it immediately compelling to me was its aesthetic appeal and my teenage self realised this was more than just a cool screensaver.
 
 [^1]: Based on the Latin work frāctus meaning broken.
-
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PD2XgQOyCCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.html) that describes the Mandelbrot is shown below, where both Z and C are complex numbers.
 
 ![Equation](/assets/images/eqn.gif){: .center-image }
 
 When represented visually we are shown fascinating shapes and patterns. Zooming in on the image reveals shapes within shapes within shapes. This seemingly 'simple' equation creates a self-contained yet infinite universe, which an observer could explore for eternity. One of the remarkable things that fractals demonstrate  is that in a dynamic system any imperceptible change in an initial state of a system can have a profound effect on final conditions, the proverbial buttery flapping its wings causing a faraway tornado.
+
 
 ### The surrounding game 
 Go is an ancient Chinese game played on a wooden board with black and white stones originally made from slate and shell. The rules are few and easy to learn, but the game is fiendishly difficult to master. Once again the appeal for me, before I learned to play, was the aesthetic experience. I had originally heard of the game in an account of Syd Barrett's life in Cambridge in the 1960s where it had been introduced from Germany, after having made the leap from Asia. When I saw first the game I was immediately hooked.
@@ -53,6 +54,7 @@ As the stones are placed one by one on the board (and sometimes removed, or kill
 ![Go board](/assets/images/goban.png){: .center-image }
 
 The Go board in the photo is my own inelegant construction, but it's what I have at home. The interweaving trails of contrasting stones begin with fairly typical opening moves (initial state) and then twist and turn unpredictably as the game moves towards a conclusion (end state).
+
 
 ### Try this at home 
 The following examples of fractals also came from my home. The pine cone has a beautiful arrangement of seed scales around its central stem. It's an elegant and efficient adaptation for seed protection and dispersal. No wonder pine cones were revered by the ancients as a symbol of fertility.
@@ -81,6 +83,7 @@ The shimmering recursive guitar riffs are a sonic recreation of this imagery, ev
 [^2]: Using eye-tracking and functional magnetic resonance imaging.
 
 [^3]: From a Syd Barrett line in the song _Astronomy Domine_, a favourite of mine.
+
 
 ### Galaxies and mites
 Whether in the inquisitiveness of a child or the insight of a genius there is something undeniably compelling about our relationship with fractals. In nature or in art we are surrounded by their signals and within the noise. There are examples of fractals all around us. All we need to do is lift up the lids of our eyes.
