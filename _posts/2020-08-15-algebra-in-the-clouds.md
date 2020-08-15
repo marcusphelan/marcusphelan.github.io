@@ -37,7 +37,7 @@ The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.
 
 When represented visually we are shown fascinating shapes and patterns. Zooming in on the image reveals shapes within shapes within shapes. This seemingly 'simple' equation creates a self-contained yet infinite universe, which an observer could explore for eternity. 
 
-One of the remarkable things that fractals demonstrate  is that in a dynamic system any imperceptible change in an initial state of a system can have a profound effect on final conditions, the proverbial butterfly flapping its wings causing a faraway tornado.
+One of the remarkable things that fractals demonstrate is that in a dynamic system, any imperceptible change in the initial state can have a profound effect on final conditions, the proverbial butterfly flapping its wings causing a faraway tornado.
 
 
 ### The surrounding game 
