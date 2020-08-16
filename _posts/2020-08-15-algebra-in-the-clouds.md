@@ -77,9 +77,9 @@ I don't own a Pollock. They're considered the worlds most expensive paintings at
 ![Stone Roses](/assets/images/roses.png){: .center-image }
 
 
-John Squire, former Stone Roses guitarist has clearly been inspired by Pollock. The album cover of the band's volcanic debut album, and much of it's early album art was created by Squire who later described his art work as a ['rip-off'](https://www.theguardian.com/music/2004/may/13/stone-roses-john-squire-art). The album art is called _Bye Bye Badman_, also used in a track title. 
+John Squire, former Stone Roses guitarist has clearly been inspired by Pollock. The cover of the band's volcanic debut album, and much of it's early visual flair was created by Squire, who later described his art as a ['rip-off'](https://www.theguardian.com/music/2004/may/13/stone-roses-john-squire-art). The piece is called _Bye Bye Badman_, also used as a track title. 
 
-It was inspired by a TV documentary of the student riots in Paris in 1968, in which the protestors used lemons to counteract the effects of the tear gas.  The lime and limpid green[^3] colour in the cover was inspired by [Squire's visit to the Giant's Causeway](https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/) in County Antrim in Northern Ireland, a UNESCO World Heritage Site, a prime example of order in the chaos of nature itself, with its strange hexagonal basalt columns.
+The lemons on the cover were inspired by a TV documentary of the student riots in Paris in 1968, in which the protestors used them to counteract the effects of tear gas.  The lime and limpid green[^3] used in the background was inspired by [Squire's visit to the Giant's Causeway](https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/) in County Antrim in Northern Ireland, a UNESCO World Heritage Site, a prime example of order in the chaos of nature itself, with its strange hexagonal basalt columns.
 
 Squire's shimmering recursive guitar riffs are a sonic recreation of his drip paintings, evoked in songs like [_Waterfall_](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY?si=L3S8Bzt1TwKvWDig6-Z-BQ) and [_This is the One_](https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf?si=w8Gd9o0aSqyh05c6UN2aJA). 	
 
