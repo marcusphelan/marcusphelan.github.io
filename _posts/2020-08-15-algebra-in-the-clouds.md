@@ -22,7 +22,7 @@ There is, however, no agreed standard meaning or scientific definition of comple
 
 > Bottomless wonders spring from simple rules… repeated without end.
 > 
-> _Benoit Mandelbrot_
+> Benoit Mandelbrot
 
 The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French mathematician, in 1975.  He used it to describe how the rough appearance of nature was the outcome of ordered processes that could be explained using simple rules. I first became aware of fractals in a software application on the Commodore Amiga in the late 1980s. As I recall, it contained a Mandelbrot set and could render artificial landscapes generated using fractal geometry. What made it immediately compelling to me was its aesthetic appeal and my teenage self realised this was more than just a cool screensaver.
 
