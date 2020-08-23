@@ -83,12 +83,12 @@ The lemons on the cover were inspired by a TV documentary of the student riots i
 
 Squire's shimmering recursive guitar riffs are a sonic recreation of his drip paintings, evoked in songs like [_Waterfall_](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY?si=L3S8Bzt1TwKvWDig6-Z-BQ) and [_This is the One_](https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf?si=w8Gd9o0aSqyh05c6UN2aJA). 	
 
-> Yeah she looks like a painting,
-> Jackson Pollock's No. 5,
-> Come into the forest and taste the trees,
-> The sun starts shining, and I'm hard to please...
+>Yeah she looks like a painting,
+Jackson Pollock's No. 5,
+Come into the forest and taste the trees,
+The sun starts shining, and I'm hard to please...
 
-> *Going Down* by Ian Brown and John Squire
+>*Going Down* by Ian Brown and John Squire
 
 [^2]: Using eye-tracking and functional magnetic resonance imaging.
 
