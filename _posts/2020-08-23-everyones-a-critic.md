@@ -46,7 +46,7 @@ The output is rendered slightly differently depending on the app that it's writt
 
 ![FoldingText](/assets/images/folding.png){: .center-image }
 
-Another app that's I've recently started using is [Drafts 5](https://getdrafts.com) which also supports CriticMarkup by dint of its extensive action directory.  It's possible to view text written in any app as long as you have a parser to view the output. One method which I frequently use is to write in TextEdit and preview in Marked 2. [DEVONthink's](https://www.devontechnologies.com/apps/devonthink)[^1] inclusion of MultiMarkdown means it also now supports CriticMarkup.
+Another app that's I've recently started using is [Drafts 5](https://getdrafts.com) which also supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output. One method which I frequently use is to write in TextEdit and preview in Marked 2. [DEVONthink's](https://www.devontechnologies.com/apps/devonthink)[^1] inclusion of MultiMarkdown means it also now supports CriticMarkup.
 
 [^1]: This fantastic research and document management tool also has great writing tools. I can't recommend this app highly enough.
 
