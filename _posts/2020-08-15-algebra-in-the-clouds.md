@@ -47,7 +47,7 @@ Go is an ancient Chinese game played on a wooden board with black and white ston
 
 >  Edward Lasker, German-American chess and Go player
 
-I had the pleasure of participating in the 2014 Confucius Cup in the Teacher's Club in Dublin that was attended by Fan Hui. He was European champion at the time and went on to win the tournament. An inspiring figure with an incredibly humble character despite his genius, and I was honoured to have a brief conversation with him during the event. The following year he became the first major player to be beaten (5-0) by a computer Go programme called AlphaGo, developed by DeepMind. It was an historic moment for the game and for artificial intelligence.
+I had the pleasure of participating in the 2014 Confucius Cup in the Teacher's Club in Dublin that was attended by Fan Hui. He was European champion at the time and went on to win the tournament. An inspiring figure and an incredibly humble character despite his genius, and I was honoured to have a brief conversation with him during the event. The following year he became the first major player to be beaten (5-0) by a computer Go programme called AlphaGo, developed by DeepMind. It was an historic moment for the game and for artificial intelligence.
 
 > Of course, when I lost the game I was not happy, but all professionals will lose many games. So I lose, I study the game, and maybe I change my game. I think it’s a good thing for the future.
 
