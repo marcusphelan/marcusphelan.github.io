@@ -9,7 +9,6 @@ tags: writing software
 ---
 
 ### `A ∩ B`
-
 If you write text primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. These languages enable writers and editors to add emphasis to text without the need for code tags which impair readability. The intersection of writers who track changes in documents, not exclusively for sharing, and those that have a preference for plaintext markup solutions is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
 
 ![AB](/assets/images/ab.png){: .center-image }
