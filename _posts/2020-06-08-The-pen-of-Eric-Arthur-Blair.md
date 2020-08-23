@@ -9,7 +9,7 @@ tags: writing politics books
 ---
 
 ### Review and revise  
-Writing is an effective way of getting one's message across. It offers clear advantages over speaking. By revising our words we can insert ideas at first forgotten, reframe an argument and rectify venomous polemics. The quality of our written communications is surely dependent on this potential to change our mind.
+Writing is an effective way of getting one's message across. It offers clear advantages over speaking. By revising our words we can insert ideas at first forgotten, reframe an argument and rectify venomous polemics. The quality of our written communications is surely dependent on this potential to change our minds.
 
 Harry Guinness, writing in the [New York Times](https://www.nytimes.com/2020/04/07/smarter-living/how-to-edit-your-own-writing.html "How to Edit Your Own Writing"), tells of his former teacher Timothy Kreider’s favourite phrase about revision. He calls it _l’esprit d’escalier_ which translates as ‘the spirit of the staircase’. It describes that feeling of thinking of the perfect reply in a conversation or an argument, after the fact.  Have you ever missed the opportunity to tell the navigator of an errant shopping trolley it’s not their fine motor skills you’re concerned about, or the paint chip on your car, but rather their lack of affability (insert preferred alternative)? Writing gives us a chance to relive the moment over and again before it actually happens in the reader’s mind.
 
