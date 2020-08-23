@@ -9,7 +9,7 @@ tags: writing software
 ---
 
 ### `A ∩ B`
-If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This enables writers and editors to add emphasis to text without code tags which impair readability. The intersection of writers who track changes in documents and those that have a preference for plaintext markup solutions is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
+If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This permits writers and editors to add emphasis to text without code tags which impair readability. The intersection of writers who track changes in documents and those that have a preference for plaintext markup solutions is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
 
 ![AB](/assets/images/ab.png){: .center-image }
 
@@ -36,13 +36,12 @@ This allows authors to make common changes to their writing using a simple synta
 |substitute|`{~~old text~>new text~~}`|
 |comments|`{>>text<<}`|
 
-This is rendered in Marked 2 as follows, enablling three views of the prose; with the markup applied, the original text or the edited version. :
+This is rendered in Marked 2 as follows, enabling three views of the prose; with the markup applied, the original text or the edited version:
 
 ![CriticMArkup Syntax](/assets/images/critic.png){: .center-image }
 
 
 ### There's an app for that
-
 The output is rendered slightly differently depending on the app that it's written in. A longstanding favourite of mine is the remarkable outlining tool [FoldingText](https://www.foldingtext.com) which is still available but I'm not sure how actively it's being developed. It's a markdown editor that has a highly scriptable and customisable writing environment. The following passage was edited in FoldingText using CriticMarkup. I assigned key bindings to the syntax so that it could be applied to selected text with keyboard shortcuts.
 
 ![FoldingText](/assets/images/folding.png){: .center-image }
