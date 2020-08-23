@@ -5,7 +5,9 @@ permalink: /about/
 tipue_search_active: true
 ---
 
-This blog is mainly about reading and writing, from book reviews to tips on markup and typesetting. It includes technical as well as creative writing. I will cover topics such as popular science, music, film, food and photography. Nice stuff. My writing projects will show up here, or at least some of the thoughts I'm developing for them.   
+This blog is mainly about reading and writing, from book reviews to tips on markup and typesetting. It includes technical as well as creative writing. I will cover topics such as popular science, music, film, food and photography. Nice stuff. 
+
+My writing projects will show up here, or at least some of the thoughts I'm developing for them.   
 ![profile](/assets/images/profile.png){:class="img-responsive"}
 
 This static site was created with [Jekyll](https://jekyllrb.com/ "Jekyll") using a modified `minima` theme. My sincere thanks to the following for their tutorials, which were very helpful in setting it up:
