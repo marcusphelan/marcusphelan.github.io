@@ -46,12 +46,11 @@ The output is rendered slightly differently depending on the app that it's writt
 
 ![FoldingText](/assets/images/folding.png){: .center-image }
 
-Another app that's I've recently started using is [Drafts 5](https://getdrafts.com) which also supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output. One method which I frequently use is to write in a plaintext file stored in [DEVONthink](https://www.devontechnologies.com/apps/devonthink) and preview it in Marked 2. DEVONthink's inclusion of MultiMarkdown means it now supports CriticMarkup.[^1]
+Another app that I've recently started using is [Drafts 5](https://getdrafts.com) which supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output.
+
+A common use case for me is grading assignments that are received in multiple document types (`.docx`, `.odt`, `.pages`, `.rtf`, `.html`, or `.pdf`). I extract the rich text and paste it as unformatted text into any editor, say a markdown `.md` file stored in DEVONthink. I can view the rendered CriticMarkup within [DEVONthink](https://www.devontechnologies.com/apps/devonthink), or use an external editor such as TextEdit and preview in Marked 2 which can export the edited document to `.docx` for emailing the student. DEVONthink's inclusion of MultiMarkdown means it now supports CriticMarkup.[^1]
 
 [^1]: This fantastic research and document management tool also has some great writing tools and I can't recommend it highly enough.
-
-
-A common use case for me is grading assignments that are received in multiple document types (`.docx`, `.odt`, `.pages`, `.rtf`, `.html`, or `.pdf`). I extract the rich text and paste it as unformatted text into any editor, say a markdown `.md` file stored in DEVONthink. I can view the rendered CriticMarkup within DEVONthink, or use an external editor such as TextEdit and preview in Marked 2 which can export the edited document to `.docx` for emailing the student.  
 
 ### Critical advantage
 
