@@ -29,18 +29,17 @@ Enter [CriticMarkup](http://criticmarkup.com), the ingenious markup syntax self-
 This allows authors to make common changes to their writing using a simple syntax. The output can be viewed by any software that can render the syntax. Brett Terpstra's [Marked 2](https://marked2app.com), a power tool for writers, has this functionality.
 
 
-|Operation|Syntax|Output|
+|Operation|Syntax|
 |:--|:--|
-|highlight|`{==text==}`|{==text==}|
-|delete|`{--text--}`|{--text--}|
-|substitute|`{~~old text~>new text~~}`|{~~old text~>new text~~}
-|comments|`{>>text<<}`|{>>text<<}|
+|highlight|`{==text==}`|
+|delete|`{--text--}`|
+|substitute|`{~~old text~>new text~~}`|
+|comments|`{>>text<<}`|
 
-Or
+This is rendered in Marked 2 as follows, enablling three views of the prose; with the markup applied, the original text or the edited version. :
 
 ![CriticMArkup Syntax](/assets/images/critic.png){: .center-image }
 
-Marked 2 enables three views of the prose; with the markup applied, the original text or the edited version. 
 
 ### There's an app for that
 
