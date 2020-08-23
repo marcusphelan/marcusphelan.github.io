@@ -46,7 +46,7 @@ The output is rendered slightly differently depending on the app that it's writt
 
 ![FoldingText](/assets/images/folding.png){: .center-image }
 
-Another app that I've recently started using is [Drafts 5](https://getdrafts.com) which supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output.
+Another app that I've recently started using is [Drafts 5](https://getdrafts.com) which supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output. The examples I'm providing are all macOS or iOS based but plaintext files are cross platform and can be read by programmes that work on other operating systems.
 
 A common use case for me is grading assignments that are received in multiple document types such as`.docx`, `.odt`, `.pages`, `.rtf`, `.html` or `.pdf`. I extract the rich text and paste it as unformatted text into any editor, say a markdown `.md` file stored in DEVONthink. I can view the rendered CriticMarkup within [DEVONthink](https://www.devontechnologies.com/apps/devonthink), or use an external editor such as TextEdit and preview it in Marked 2, which can export the edited document to `.docx` for emailing to the student. DEVONthink's inclusion of MultiMarkdown means it now supports CriticMarkup.[^1]
 
