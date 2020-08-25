@@ -79,7 +79,7 @@ I don't own a Pollock. They're considered the worlds most expensive paintings at
 
 John Squire, former Stone Roses guitarist has clearly been inspired by Pollock. The cover of the band's volcanic debut album, and much of it's early visual flair was created by Squire, who later described his art as a ['rip-off'](https://www.theguardian.com/music/2004/may/13/stone-roses-john-squire-art). The piece is called _Bye Bye Badman_, also used as a track title. 
 
-The lemons on the cover were inspired by a TV documentary of the student riots in Paris in 1968, in which the protestors used them to counteract the effects of tear gas.  The lime and limpid green[^3] used in the background was inspired by [Squire's visit to the Giant's Causeway](https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/) in County Antrim in Northern Ireland, a UNESCO World Heritage Site, a prime example of order in the chaos of nature itself, with its strange hexagonal basalt columns.
+The lemons on the cover were inspired by a TV documentary of the student riots in Paris in 1968, in which the protestors used them to counteract the effects of tear gas.  The green colour used in the background was inspired by [Squire's visit to the Giant's Causeway](https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/) in County Antrim in Northern Ireland, a UNESCO World Heritage Site, a prime example of order in the chaos of nature itself, with its strange hexagonal basalt columns.
 
 Squire's shimmering recursive guitar riffs are a sonic recreation of his drip paintings, evoked in songs like [_Waterfall_](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY?si=L3S8Bzt1TwKvWDig6-Z-BQ) and [_This is the One_](https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf?si=w8Gd9o0aSqyh05c6UN2aJA). 	
 
@@ -91,8 +91,6 @@ The sun starts shining, and I'm hard to please...
 >*Going Down* by Ian Brown and John Squire
 
 [^2]: Using eye-tracking and functional magnetic resonance imaging.
-
-[^3]: From a Syd Barrett line in the song _Astronomy Domine_, a favourite of mine.
 
 
 ### Galaxies and mites
