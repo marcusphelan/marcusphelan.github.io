@@ -5,6 +5,7 @@ categories: misc
 author: Marcus Phelan
 meta: "markup"
 tags: writing software
+last_modified_at: 2020-08-25 23:36
 ---
 
 ### `A ∩ B`
