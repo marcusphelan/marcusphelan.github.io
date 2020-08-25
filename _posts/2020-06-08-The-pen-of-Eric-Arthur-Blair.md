@@ -2,8 +2,7 @@
 layout: post
 title: "The Pen of Eric Arthur Blair"
 categories: misc
-author:
-- Marcus Phelan
+author: Marcus Phelan
 meta: "politics"
 tags: writing politics books
 ---
