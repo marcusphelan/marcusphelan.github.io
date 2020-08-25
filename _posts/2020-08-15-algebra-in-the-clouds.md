@@ -2,8 +2,7 @@
 layout: post
 title: "Algebra in the Clouds"
 categories: misc
-author:
-- Marcus Phelan
+author: Marcus Phelan
 meta: "complexity"
 youtubeId: PD2XgQOyCCk
 tags: science philosophy nature music go food books writing

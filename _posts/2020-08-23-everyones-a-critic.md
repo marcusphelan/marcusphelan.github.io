@@ -2,8 +2,7 @@
 layout: post
 title: "Everyone's a Critic"
 categories: misc
-author:
-- Marcus Phelan
+author: Marcus Phelan
 meta: "markup"
 tags: writing software
 ---
