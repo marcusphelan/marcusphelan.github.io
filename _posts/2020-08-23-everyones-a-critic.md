@@ -55,3 +55,5 @@ A common use case for me is grading assignments that are received in multiple do
 ### Critical advantage
 
 One of the greatest features of CriticMarkup is that you can use it in your favourite editor, as long as it supports the syntax. It permits fast and efficient markup without firing up a word processor at the risk of interrupting your editing flow. It's useful for collaboration and a great way to review text which can be outputted into common file formats, or web-ready content.
+
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
