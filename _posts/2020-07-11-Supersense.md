@@ -8,7 +8,7 @@ tags: writing science nature bees
 ---
 
 ### A trained nose
-My interest in olfaction isn't recent but I really got hooked when I started doing character research for a project I am working on, a novel with the working title _Broken Ladder_. I was looking for a way to differentiate a group of characters, one of whom plays a large part in the book. I wanted to attribute to him extraordinary abilities, but I didn’t want to give him super powers in the traditional sense. 
+I've been interested in olfaction for some time but I really got hooked when I started doing character research for a project I am working on, a novel with the working title _Broken Ladder_. I was looking for a way to differentiate a group of characters, one of whom plays a large part in the book. I wanted to attribute to him extraordinary abilities, but I didn’t want to give him super powers in the traditional sense. 
 
 These skills had to be gained through diligent practice rather than vicariously inherited or derived through a happy accident. With an emphasis on the effort required to obtain the skill I needed to keep the trait believable, but I also wanted it to be almost superhuman. X-ray eyes were out and super sense was in, specifically smell, or rather olfaction. So what is so special about our nasal faculties?
 
