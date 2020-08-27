@@ -2,8 +2,7 @@
 layout: post
 title: "Supersense"
 categories: misc
-author:
-- Marcus Phelan
+author: Marcus Phelan
 meta: "senses"
 tags: writing science nature bees
 ---
