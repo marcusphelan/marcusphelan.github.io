@@ -9,7 +9,7 @@ last_modified_at: 2020-08-25 23:36
 ---
 
 ### `A ∩ B`
-If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This permits writers and editors to add emphasis to text without code tags which impair readability. The intersection of writers who track changes in documents and those that have a preference for plaintext markup solutions is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
+If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This permits writers and editors to add emphasis to text without code tags which impair readability. In a Venn diagram of writers who track changes in documents and those that have a preference for plaintext markup solutions, the intersection is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
 
 ![AB](/assets/images/ab.png){: .center-image }
 
