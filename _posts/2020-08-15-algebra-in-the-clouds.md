@@ -5,6 +5,7 @@ categories: misc
 author: Marcus Phelan
 meta: "complexity"
 youtubeId: PD2XgQOyCCk
+mathjax: true
 tags: science philosophy nature music go food books writing
 ---
 
@@ -32,6 +33,7 @@ The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French m
 
 The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.html) that describes the Mandelbrot is shown below, where both Z and C are complex numbers.
 
+$$Z_(n+1)= Z_2^n+C$$
 ![Equation](/assets/images/eqn.gif){: .center-image }
 
 When represented visually we are shown fascinating shapes and patterns. Zooming in on the image reveals shapes within shapes within shapes. This seemingly 'simple' equation creates a self-contained yet infinite universe, which an observer could explore for eternity. 
