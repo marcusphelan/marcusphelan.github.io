@@ -18,3 +18,4 @@ This static site was created with [Jekyll](https://jekyllrb.com/ "Jekyll") using
 - [The Programming Historian](https://programminghistorian.org/ "The Programming Historian")
 - [Jonathan McGlone](http://jmcglone.com/ "Jonathan McGlone")
 - [Thanh Tran](https://int3ractive.com/ "int3ractive")
+- [Practically Efficient](http://www.practicallyefficient.com)
