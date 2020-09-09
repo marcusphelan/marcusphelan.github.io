@@ -102,6 +102,6 @@ All we need to do is lift up the lids of our eyes.
 
 > Victor Hugo, Les Misérables
 
-This page was last updated on Sep 09, 2020 22:52
+_This page was last updated on Sep 09, 2020 22:52_
 
 ![Pudding bowl](/assets/images/bowl.png){: .center-image }
