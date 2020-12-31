@@ -12,12 +12,12 @@ Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.s
 
 On that day the United Kingdom was not a member of the European Economic Community. (The country would later join, along with Ireland, on 1 January 1973.) Of course the world was a different place then. The New Year’s Eve breaking news was that Paul McCartney had filed a lawsuit to dissolve the Beatles’ partnership. It signalled an inauspicious beginning to the coming decade, devoid of the wide-eyed optimism of the 1960s.
 
-Today, fifty years later, another ending has come. The U.K. leaves the European Union. It does so at midnight -notably- according to CET in Brussels, the locus of EU power. Perhaps Greenwich’s Shepherd Gate Clock will solemnly mark it at 11pm. The GMT timepiece was bombed in the Blitz but thankfully survived the blast. The incendiary device that smashed into the observatory wall in 1940 serves as a useful touchstone for the U.K.'s alleged hegemony of present day Europe, in the guise of the EU. 
+Today, fifty years later, another ending has come. The U.K. leaves the European Union. It does so at midnight -notably- according to CET in Brussels, the locus of EU power. Perhaps Greenwich’s Shepherd Gate Clock will solemnly mark it at 11pm. The GMT timepiece was bombed in the Blitz but thankfully survived the blast. The incendiary device that smashed into the observatory wall in 1940 serves as a useful touchstone for the U.K.'s alleged hegemony of present day Europe in the guise of the EU. 
 
 ![Shepherd Gate Clock](/assets/images/clock.png){: .center-image }
 
 ### Go Forth and Be Merry
-The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? Perhaps it instead harkens back to the recent ringings of Westminster’s division bells. A soundtrack of internal strife. The political capital has now been spent and hubristic pantomime must be replaced by serious negotiation.
+The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? Perhaps it harkens back to the recent ringings of Westminster’s division bells instead. A soundtrack of internal strife. The political capital has now been spent and the hubristic pantomime must be replaced by serious negotiation.
 
 > So rebuild the railways,  
 Firm up all the roads,  
