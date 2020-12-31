@@ -12,7 +12,7 @@ Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.s
 
 On that day the United Kingdom was not a member of the European Economic Community. (The country would later join, along with Ireland, on 1 January 1973.) Of course the world was a different place then. The New Year’s Eve breaking news was that Paul McCartney had filed a lawsuit to dissolve the Beatles’ partnership. It signalled an inauspicious beginning to the coming decade, devoid of the wide-eyed optimism of the 1960s.
 
-Today, fifty years later, another ending has come. The U.K. leaves the European Union. It does so at midnight -notably- according to CET in Brussels, the locus of EU power. Perhaps Greenwich’s Shepherd Gate Clock will solemnly mark it at 11pm. The GMT timepiece was bombed in the Blitz but thankfully survived the blast. The incendiary device that smashed into the observatory wall in 1940 serves as a useful touchstone for the U.K.'s alleged hegemony of present day Europe in the guise of the EU. 
+Today, fifty years later, another ending has come. The U.K. leaves the European Union. It does so at midnight -notably- according to CET in Brussels, the locus of EU power. Perhaps Greenwich’s Shepherd Gate Clock will solemnly mark it at 11pm. The GMT timepiece was bombed in the Blitz but thankfully survived the blast. The incendiary device that smashed into the observatory wall in 1940 serves as a useful touchstone to the U.K.'s allegations of hegemony of present day Europe in the guise of the EU. 
 
 ![Shepherd Gate Clock](/assets/images/clock.png){: .center-image }
 
@@ -30,5 +30,5 @@ In this Merrie Land.
 
 Brexit is not the hill on which the U.K. will perish but it's inarguably a poor strategy for success in the _fitness landscape_ of European affairs. In time the self imposed restrictions of sovereignty may dissolve the nebulous ambitions of ‘sunlit uplands’. The next generation of U.K. citizens may not nurture the same feelings of victimhood as their forebears. The current relationship between the U.K. and the EU is on shaky ground, with Ireland in an awkward position. I hope the impoverished connections will (again) give way to newer and better bonds, over the next 50 years.
 
-_This page was last updated on {{ "now" | date: "%b %-d, %Y %H:%M" }}_
+
 
