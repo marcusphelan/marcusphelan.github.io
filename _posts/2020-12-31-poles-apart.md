@@ -7,6 +7,7 @@ meta: "Brexit"
 tags: politics music
 ---
 
+
 # A New Ending
 
 Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.spotify.com/track/1ewaLbC2PQiAL6e4VXmSkB?si=Nkmuwj9_QpyzM7nfMTlanA) is a series of excerpts in clipped English accents taken from BBC News and shipping forecasts. The track is on his 2017 record _Is This the Life We Really Want?_ which is infused with these snippets of audio nostalgia. One of the announcements used in the song proclaims the last day of the year, Thursday 31 December, 1970.
