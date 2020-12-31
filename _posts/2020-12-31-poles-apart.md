@@ -20,12 +20,12 @@ Today, fifty years later, another ending has come. The U.K. leaves the European 
 
 The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? Perhaps it will instead harken back to the recent ringings of Westminster’s division bells. A soundtrack of internal strife. The political capital has now been spent and hubristic pantomime must be replaced by serious negotiations.
 
-> So rebuild the railways,
-Firm up all the roads,
-No one is leaving,
-Now this is your home...
-All lost in a painting of a sky coloured oil,
-In this Merrie Land.
+> So rebuild the railways,  
+Firm up all the roads,  
+No one is leaving,  
+Now this is your home...  
+All lost in a painting of a sky coloured oil,  
+In this Merrie Land.  
 
 >*Merrie Land* by The Good, the Bad and the Queen
 
