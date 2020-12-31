@@ -2,21 +2,20 @@
 layout: post
 title: "Supersense"
 categories: misc
-author:
-- Marcus Phelan
+author: Marcus Phelan
 meta: "senses"
 tags: writing science nature bees
 ---
 
 ### A trained nose
-My interest in olfaction goes back a while but I really got hooked when I started doing character research for a project I am working on, a novel with the working title _Broken Ladder_. I was looking for a way to differentiate a group of characters, one of whom plays a large part in the book. I wanted to attribute to him extraordinary abilities, but I didn’t want to give him super powers in the traditional sense. 
+I've been interested in olfaction for some time but I really got hooked when I started doing character research for a project I am working on, a novel with the working title _Broken Ladder_. I was looking for a way to differentiate a group of characters, one of whom plays a large part in the book. I wanted to attribute to him extraordinary abilities, but I didn’t want to give him super powers in the traditional sense. 
 
 These skills had to be gained through diligent practice rather than vicariously inherited or derived through a happy accident. With an emphasis on the effort required to obtain the skill I needed to keep the trait believable, but I also wanted it to be almost superhuman. X-ray eyes were out and super sense was in, specifically smell, or rather olfaction. So what is so special about our nasal faculties?
 
 ![Olfaction](/assets/images/olfaction.png){: .center-image }
 
 ### The science bit...
-Volatile odours such as cloves (Eugenia) or soil after a rain shower (geosmin) enter the nose during inhalation. There they activate receptors in the olfactory epithelium located behind each nostril, leading to a series of reactions that are interpreted by the olfactory bulb located at the base (inferior side) of the forebrain.
+Volatile odours such as cloves (Eugenia) or the smell of soil after a rain shower (geosmin) enter the nose during inhalation. There they activate receptors in the olfactory epithelium located behind each nostril, leading to a series of reactions that are interpreted by the olfactory bulb located at the base (inferior side) of the forebrain.
 
 There are two prevailing theories underpinning the science of olfaction. One is based on the so-called *lock and key* model where the shape of odourant molecule activates specific receptors in the lining of the nose. There is however an anomaly in this hypothesis, in that some almost identical molecules can smell completely different. This is where the second theory comes in. [Derek Lowe](https://blogs.sciencemag.org/pipeline/archives/2018/08/21/an-update-on-vibrational-theories-of-smell) describes the the vibrational theory of olfaction (VTO) as a mechanism in which at least some receptors sense the vibrational levels of functional groups, which involves electron tunnelling, a feature of quantum mechanics.[^1] 
 

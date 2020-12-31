@@ -25,6 +25,7 @@ My point is that writing is a staged and recursive process that is improved by r
 Orwell is critical of using words that come from Latin and Greek to make the writer appear grand (such as *extraneous*). Timothy Kreider’s foreign language expression might have stirred up an accusation of giving off ‘an air of culture and elegance’ by the author. I hope in this case Orwell would be forgiving however  he calls out scientific, political and sociological writers who are squarely in his crosshairs for promulgating this affectation. My last sentence is an example of what Orwell describes as ‘the tacking together of a pre-fabricated henhouse’, highlighting the use of linkages of overused prose and ‘dying metaphors’. Plain words are better than jargon he says, the use of which can sometimes be attributed to political motivations.
 
 ![henhouse](/assets/images/hen.png){: .center-image }
+*Henhouse*
 
 Another _faux pas_, or rather blunder, to which writers invariably succumb is the dreaded ‘not un-’ formation, used to make a boring statement seem important. The author writes:
 

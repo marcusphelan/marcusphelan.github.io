@@ -9,9 +9,10 @@ last_modified_at: 2020-08-25 23:36
 ---
 
 ### `A ∩ B`
-If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This permits writers and editors to add emphasis to text without code tags which impair readability. The intersection of writers who track changes in documents and those that have a preference for plaintext markup solutions is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
+If you write primarily for the web you are probably aware of markup languages that preclude the need to draft in HTML. This permits writers and editors to add emphasis to text without code tags which impair readability. In a Venn diagram of writers who track changes in documents and those that have a preference for plaintext markup solutions, the intersection is admittedly small. However, if you review documents in different formats you'll appreciate that flexibility is key to a frictionless workflow.
 
 ![AB](/assets/images/ab.png){: .center-image }
+ *The needs of the few*
 
 As a trainer I sometimes need to review documents of different file types. Using John Gruber's [Markdown](https://daringfireball.net/projects/markdown/) it is easy to work on text from different formats and styles. While there is no provision for tracking changes in Markdown, thankfully it has been incorporated in Fletcher Penney's [Multimarkdown](https://fletcherpenney.net/multimarkdown/), one of its variants.
 
@@ -39,12 +40,13 @@ This allows authors to make common changes to their writing using a simple synta
 This is rendered in Marked 2 as follows, enabling three views of the prose; with the markup applied, the original text or the edited version:
 
 ![CriticMArkup Syntax](/assets/images/critic.png){: .center-image }
-
+*CriticMArkup syntax*
 
 ### There's an app for that
 The output is rendered slightly differently depending on the app that it's written in. A longstanding favourite of mine is the remarkable outlining tool [FoldingText](https://www.foldingtext.com) which is still available but I'm not sure how actively it's being developed. It's a markdown editor that has a highly scriptable and customisable writing environment. The following passage was edited in FoldingText using CriticMarkup. I assigned key bindings to the syntax so that it could be applied to selected text with keyboard shortcuts.
 
 ![FoldingText](/assets/images/folding.png){: .center-image }
+*FoldingText*
 
 Another app that I've recently started using is [Drafts 5](https://getdrafts.com) which supports CriticMarkup by dint of its extensive action directory.  In fact it's possible to view the edits written in any app as long as you have a parser to view the output. The examples I'm providing are all macOS or iOS based but plaintext files are cross platform and can be read by programmes that work on other operating systems.
 
