@@ -31,5 +31,5 @@ In this Merrie Land.
 
 Brexit is not the hill on which the U.K. will perish but it inarguably increases its _isolation quotient_ in the fitness landscape of European affairs. In time the self imposed restrictions of sovereignty may dissolve nebulous ambitions for ‘sunlit uplands’. The next generation of U.K. citizens may not nurture the same feelings of victimhood as their forebears, however justified they may be. The current relationship between the U.K. and the EU is on shaky ground, with Ireland in an awkward position. I hope the impoverished connections will (again) give way to newer and better bonds, over the next 50 years.
 
-
+_This page was last updated on {{ "now" | date: "%b %-d, %Y %H:%M" }}_
 
