@@ -15,6 +15,7 @@ On that day the United Kingdom was not a member of the European Economic Communi
 Today, fifty years later, another ending has come. The U.K. leaves the European Union. It does so at midnight -notably- according to CET in Brussels, the locus of EU power. Perhaps Greenwich’s Shepherd Gate Clock will solemnly mark it at 11pm. The GMT timepiece was bombed in the Blitz but thankfully survived the blast. The incendiary device that smashed into the observatory wall in 1940 serves as a useful touchstone for the U.K.'s alleged hegemony of present day Europe in the guise of the EU. 
 
 ![Shepherd Gate Clock](/assets/images/clock.png){: .center-image }
+*Shepherd Gate Clock*
 
 ### Go Forth and Be Merry
 The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? Perhaps it harkens back to the recent ringings of Westminster’s division bells instead. A soundtrack of internal strife. The political capital has now been spent and the hubristic pantomime must be replaced by serious negotiation.
