@@ -8,7 +8,7 @@ tags: politics music
 ---
 
 ### A New Ending
-Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.spotify.com/track/1ewaLbC2PQiAL6e4VXmSkB?si=Nkmuwj9_QpyzM7nfMTlanA) is a series of excerpts in clipped English accents taken from BBC News and shipping forecasts. The track is on his 2017 record _Is This the Life We Really Want?_ which is infused with snippets of audio nostalgia. One of the announcements used in the song proclaims the last day of the year, Thursday 31 December, 1970.
+Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.spotify.com/track/1ewaLbC2PQiAL6e4VXmSkB?si=Nkmuwj9_QpyzM7nfMTlanA) is a series of excerpts in clipped English accents taken from BBC News and shipping forecasts. The track is on his 2017 record _Is This the Life We Really Want?_  which is infused with snippets of audio nostalgia. One of the announcements used in the song proclaims the last day of the year, Thursday 31 December, 1970.
 
 On that day the United Kingdom was not a member of the European Economic Community. (The country would later join, along with Ireland, on 1 January 1973.) Of course the world was a different place then. The New Year’s Eve breaking news was that Paul McCartney had filed a lawsuit to dissolve the Beatles’ partnership. It signalled an inauspicious beginning to the coming decade, devoid of the wide-eyed optimism of the 1960s.
 
