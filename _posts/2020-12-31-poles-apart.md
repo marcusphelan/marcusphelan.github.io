@@ -18,7 +18,7 @@ Today, fifty years later, another ending has come. The U.K. leaves the European 
 *Shepherd Gate Clock*
 
 ### Go Forth and Be Merry
-The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? (How's that for Daily Mail?) Perhaps it harkens back to the recent ringings of Westminster’s division bells instead. A discordant soundtrack of internal strife. The political capital has now been spent and the hubristic pantomime of splendid isolation replaced by negotiations with serious consequences.
+The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? (How's that for Daily Mail?) Perhaps it harkens back to recent ringings of Westminster’s division bells instead. A discordant soundtrack of internal strife. The political capital has now been spent and the hubristic pantomime of splendid isolation replaced by negotiations with serious consequences.
 
 > So rebuild the railways,  
 Firm up all the roads,  
