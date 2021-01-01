@@ -29,7 +29,7 @@ In this Merrie Land.
 
 >*Merrie Land* by The Good, the Bad and the Queen
 
-Brexit is not the hill on which the U.K. will perish but it's inarguably a poor strategy for success in the _fitness landscape_ of European affairs. In time the self imposed restrictions of sovereignty may dissolve the nebulous ambitions of ‘sunlit uplands’. The next generation of U.K. citizens may not nurture the same feelings of victimhood as their forebears. The current relationship between the U.K. and the EU is on shaky ground, with Ireland in an awkward position. I hope the impoverished connections will (again) give way to newer and better bonds, over the next 50 years.
+Brexit is not the hill on which the U.K. will perish but it's inarguably a poor strategy for success in the _fitness landscape_ of European affairs. In time the self imposed restrictions of sovereignty may dissolve the nebulous ambitions of ‘sunlit uplands’. The next generation of U.K. citizens may not nurture the same feelings of victimhood as their forebears. The current relationship between the U.K. and the EU is on shaky ground, with Ireland in an awkward position. We all need each other. I hope the impoverished connections will (again) give way to newer and better bonds, over the next 50 years.
 
 
 
