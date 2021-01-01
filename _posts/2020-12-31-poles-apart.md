@@ -7,7 +7,7 @@ meta: "Brexit"
 tags: politics music
 ---
 
-### A New Ending
+### A new ending
 Overdubbed onto the start of Roger Water’s [_The Last Refugee_](https://open.spotify.com/track/1ewaLbC2PQiAL6e4VXmSkB?si=Nkmuwj9_QpyzM7nfMTlanA) is a series of excerpts in clipped English accents taken from BBC News and shipping forecasts. The track comes from his 2017 record _Is This the Life We Really Want?_  which is infused with snippets of audio nostalgia. One of the announcements used in the song proclaims the last day of the year, Thursday 31 December, 1970.
 
 On that day the United Kingdom was not a member of the European Economic Community. (The country would later join, along with Ireland, on 1 January 1973.) Of course the world was a different place then. The New Year’s Eve breaking news was that Paul McCartney had filed a lawsuit to dissolve the Beatles’ partnership. It signalled an inauspicious beginning to the coming decade, devoid of the wide-eyed optimism of the 1960s.
@@ -17,7 +17,7 @@ Today, fifty years later, another ending has come. The U.K. leaves the European 
 ![Shepherd Gate Clock](/assets/images/clock.png){: .center-image }
 *Shepherd Gate Clock*
 
-### Go Forth and Be Merry
+### Go forth and be merry
 The divisive campaigns for both ‘leave’ and ‘remain’ (fought in a geopolitical atmosphere mired by Trump’s ascendance and COVID-19) felt to a casual observer like myself to be politics going through the motions. An imperfect system hijacked by extremists and ideologues. Will Big Ben’s Brexit bong bolster Britons’ belief in their inalienable right to influence world affairs? (How's that for Daily Mail?) Perhaps it harkens back to recent ringings of Westminster’s division bells instead. A discordant soundtrack of internal strife. The political capital has now been spent and the hubristic pantomime of splendid isolation replaced by negotiations with serious consequences.
 
 > So rebuild the railways,  
