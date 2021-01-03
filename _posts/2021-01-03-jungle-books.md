@@ -28,8 +28,8 @@ The following is a summary of import charges applicable to Amazon UK purchases f
 
 #### Notes 
 
-- Amazon will show any duty and import VAT as _The Import Fees Deposit_ at checkout. This is their estimate of taxes and duties that may apply. Refunds for overestimates will be applied by Amazon.
-- Irish customers should see a 20% final price reduction at checkout on single Amazon items priced under £23.94.
+- Amazon will show any duty and import VAT as _The Import Fees Deposit_ at checkout. This is their estimate of taxes and duties that may apply. Refunds for overestimates will be applied by Amazon; underestimates won't incur additional charges.
+- Irish customers should see a 20% final price reduction at checkout on single Amazon items priced under £23.94 (based on January 2021 exchange rate).
 - The VAT threshold is per _package_ not per _order_. You could set use multiple addresses to avoid VAT charges.
 - Amazon has announced they will continue to accept eligible returns after Brexit
 - Prime members will avoid paying Irish VAT on the delivery charge.
