@@ -8,7 +8,7 @@ tags: books
 ---
 
 ### Amazon UK orders to Ireland 
-The following is a summary of import charges applicable to Amazon UK purchases from Ireland after 1 January 2021. The tables contain details taken (mostly) from [Money Guide Ireland](https://www.moneyguideireland.com/buying-from-amazon-uk-after-brexit.html). Apparently some Amazon book customers are being charged VAT in error, although I haven't personally experienced this. 
+This page summarises import charges applicable to Amazon UK purchases from Ireland after 1 January 2021. The tables contain details taken (mostly) from [Money Guide Ireland](https://www.moneyguideireland.com/buying-from-amazon-uk-after-brexit.html). Apparently some Amazon book customers are being charged VAT in error, although I haven't personally experienced this. 
 
 ### Customs
 
