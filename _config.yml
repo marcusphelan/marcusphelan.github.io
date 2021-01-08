@@ -60,3 +60,5 @@ plugins:
  - jekyll-seo-tag
  - jemoji
  - jekyll-paginate
+
+google_analytics: "G-NJXN2RZK2H"
