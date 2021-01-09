@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 tipue_search_active: true
+<!-- Favicon head tag -->
+<link rel="shortcut icon" type="image/png" href="favicon.png">
 ---
 
 This blog is mainly about reading and writing. It includes technical as well as creative writing. I'll cover popular science, music, film, food and photography. Nice stuff. 
