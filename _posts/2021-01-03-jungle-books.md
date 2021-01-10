@@ -3,7 +3,6 @@ layout: post
 title: "Jungle Books"
 categories: misc
 author: Marcus Phelan
-date: 2021-01-03 21.30
 meta: "Brexit"
 tags: books
 ---
