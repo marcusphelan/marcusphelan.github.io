@@ -35,8 +35,7 @@ minima:
     # keybase: jekyll
 
     # Mastodon instances
-      mastodon:
-      - username: @marcusphelan@mas.to
+      mastodon: @marcusphelan@mas.to
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
