@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time out of Mind"
+title: "Time Out of Mind"
 categories: misc
 author: Marcus Phelan
 meta: "AI"
