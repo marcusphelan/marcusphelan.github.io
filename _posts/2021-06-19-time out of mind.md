@@ -5,13 +5,13 @@ categories: misc
 author: Marcus Phelan
 meta: "AI"
 youtubeId: c8N72t7aScY
-tags: tech philosophy
+tags: writing tech philosophy
 ---
 
 ### AI Okay
 Artificial intelligence has been portrayed in various fictional forms, from the scampish Mechanical Turk to the murderous HAL 9000  in 2001: A Space Odyssey. These embodiments are couched in moralistic tales of deceit and control. Cautionary stories of this kind have been around since the mythological Pandora’s Box and accounts of Aladdin’s genie in the lamp. 
 
-I thought it would be interesting to combine ancient magic and futuristic technology in a contemporary setting, and this is the basis for *Blackjack* (link below). This short story features a duplicitous genie plying his trade of hope and regret. The similarity of the Arabic word *jinn* (supernatural spirits) and the Latin genius is coincidental. However, the term ‘generative model’ used by machine learning experts to expand their understanding of AI, owes an etymological debt to the genie. Notably, the supernatural lamp dweller can manifest either as a guardian angel or as a tyrant. This dichotomous aspect is mirrored in debates on AI. 
+I thought it would be interesting to combine ancient magic and futuristic technology in a contemporary setting, forming the basis for the short story *Blackjack* (link below). It features a duplicitous genie plying his trade of hope and regret. The similarity of the Arabic word *jinn* (supernatural spirits) and the Latin genius is coincidental. However, the term ‘generative model’ used by machine learning experts to expand their understanding of AI, owes an etymological debt to the genie. Notably, the supernatural lamp dweller can manifest either as a guardian angel or as a tyrant. This dichotomous aspect is mirrored in debates on AI. 
 
 > Any sufficiently advanced technology is indistinguishable from magic.
 
