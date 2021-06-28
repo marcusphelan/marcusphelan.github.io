@@ -46,5 +46,3 @@ Import charges applicable to Amazon UK customers in Ireland from 1 January 2021 
 [^5]: Depending on rate applicable for item(s) purchased.
 
 
-
-_This page was last updated on {{ "now" | date: "%b %-d, %Y %H:%M" }}_
