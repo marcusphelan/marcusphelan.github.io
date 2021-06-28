@@ -12,14 +12,12 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }} • {% include read-time.html content=content %}
 
-      {%- if page.modified_date -%}
-        ~
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        </time>
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
-      {%- endif -%}
+      {%- if page.last_modified_at -%}
+    Last updated: {%- page.last_modified_at | date: date_format -%}
+{%- else -%}
+    Last updated: {%- page.date | date: date_format -%}
+{%- endif -%}
+</time>
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
