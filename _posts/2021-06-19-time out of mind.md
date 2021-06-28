@@ -42,7 +42,7 @@ Humanity perceives time based on our biological predisposition. One thing we sho
 
 [Blackjack](https://books.apple.com/ie/book/blackjack/id1572013153) 
 
-_This page was last updated on {{ "now" | date: "%b %-d, %Y %H:%M" }}_
+_This page was last updated on Jun 28, 2021 18:31_
 
 
 
