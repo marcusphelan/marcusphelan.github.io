@@ -11,10 +11,11 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }} • {% include read-time.html content=content %}
-      </time>
+
       {%- if page.modified_date -%}
         ~
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        </time>
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
         </time>
