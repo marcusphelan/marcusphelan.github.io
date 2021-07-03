@@ -40,7 +40,7 @@ The sheer volume of emails sent is therefore undermined by the paucity of inform
  3. Collaborate Confidently 
  4. Trust Totally
  
-Dhawan maintains that we generally expect email responses within twenty-four hours. To my mind this timeframe sounds like a throwback to postal cycles, with many senders now expecting a detailed response within an hour or two. I do, however, support the idea that the enforced adoption of remote working makes it even more imperative to establish better email etiquette.
+She maintains that people generally expect email responses within twenty-four hours. To my mind this timeframe sounds like a throwback to postal cycles, with many senders now expecting a detailed response within an hour or two. I do, however, support the idea that the enforced adoption of remote working makes it even more imperative to establish better email etiquette.
 
 ### EMAIL IS OVER! IF YOU WANT IT
 If we stop questioning how we manage our inboxes *we* end up being managed by our message alerts. This makes busy work the priority. The productivity benefits of email were quickly overtaken by its inherent inefficiencies (IBM experienced over five times more email than expected when their servers were switched on) and yet we continue to cling to the badge of honour of overflowing mailboxes. We must challenge email on the beaches and on the landing grounds; the bed-side locker and the holiday cottage.   
