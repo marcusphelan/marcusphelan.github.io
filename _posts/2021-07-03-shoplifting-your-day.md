@@ -8,7 +8,7 @@ tags: tech writing
 ---
 
 ###  Interrupted
-The way we communicate with email has hardly changed since my working life began in the 1990s. Personal computers were by then ubiquitous and increasingly connected to the nascent internet. The advent of email was heralded as an efficiency booster beyond compare. However, some argue that it has made our work miserable.
+The way we communicate with email has hardly changed since my working life began in the 1990s. Personal computers were by then ubiquitous and increasingly connected to the nascent internet. The advent of email was heralded as an efficiency booster beyond compare however some argue that it has made us miserable.
 
 Cal Newport’s _A World Without Email_ is a critique of email usage and its effect on our ability to get things done. Newport is an Associate Professor of Computer Science at Georgetown University. As an academic he is no doubt subject to the administrative overload due to the corporatisation of higher level institutions. (The comparison to how his grandfather worked, also a Professor, is telling.)  
 
