@@ -31,7 +31,7 @@ The sheer volume of emails sent is therefore undermined by the paucity of inform
 
 [^1]: I confess I haven’t read Dhawan’s book and am basing my comments on the [Bookworm](https://bookworm.fm/) podcast about it.
  
- Another emerging convention in digital communication is the avoidance of full-stops (periods) to punctuate sentences, which is seen by some as conveying aggression. Large chunks of text that have no punctuation whatsoever are not easy to follow. As a reader I ignore these passages 100% of the time. Life is just too short. I’m not convinced that the use of emojis carries a whole lot of emotional nuance and may risk causing a digital communications ‘arms race’ instead :expressionless: 
+ Another emerging convention in digital communication is the avoidance of full-stops (periods) to punctuate sentences, which is seen by some as conveying aggression. Large chunks of text that have no punctuation whatsoever are not easy to follow. As a reader I ignore these passages 100% of the time. Life is just too short. I’m not convinced that the use of emojis carries a whole lot of emotional nuance and risks causing a pictogram ‘arms race’ instead :expressionless: 
  
  Dhawan’s four (all alliterative) laws of digital body language are:
  
