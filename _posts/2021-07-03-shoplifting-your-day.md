@@ -49,7 +49,7 @@ The war on email requires a long term strategy to succeed. In the meantime we ne
 
 _A World Without Email_ includes a series of case studies to illustrate alternatives to email. Analogue and digital solutions, or a combination of both, are suggested. As a technophile I’m drawn to computerised solutions[^2] as long as they add value. Newport’s case studies centre on Kanban cards and dashboard systems that provide project overviews, with team review being an essential component for clear delineation of workflows. My preference is to connect emails to related documents with deep file links and message `URLs` or use custom meta data and tags. However, these workflows don’t provide the perspectives offered by Kanban and similar techniques.
 
-[^2]: Although I’m a Kindle ebook advocate I’ve recently re-discovered the enjoyment of printed books (like Newport’s) even if I find myself glancing at the top right-hand-side of the page to check the time.]
+[^2]: Although I’m a Kindle ebook advocate I’ve recently re-discovered the enjoyment of printed books (like Newport’s) even if I find myself glancing at the top right-hand-side of the page to check the time.
 
 Another solution proposed by Newport is the reconfiguration of roles within organisations. Specialists should not be treated as general purpose workers that spend their days ping-ponging about meeting availability and perfunctorily engaging in ever-expanding email threads of irrelevance. Moreover, he recommends that support units should co-ordinate their activities to minimise disruption to valuable knowledge work. I think it’s important to add that service providers themselves are possibly the hardest hit by email overload, so this is a two-way street.
 
@@ -57,7 +57,7 @@ Another solution proposed by Newport is the reconfiguration of roles within orga
 ### Security now
 Email is information technology’s Achilles’ heel and data security may eventually provide an incentive to supersede it with something safer. We may never return to scribbled messages passed through pneumatic tubes (like in the CIA headquarters at Langley) but there may be value in considering a return to analogue communications for specific applications like healthcare. The benefits for privacy and security are significant, despite the downsides. This would be impractical in sectors where there is a lot of data such as banking but these are typically businesses that can afford high-tech security measures. We need to question whether knowledge workers have seen greater efficiencies since the replacement of postal communications and filing cabinets considering the prevalence of poor methods of information capture and retrieval and hard drives of disorganised electronic files[^3].
 
-[^3]: Of course there are exceptions (computers make certain tasks way more efficient) but I think basic computer literacy has *decreased* since the advent of the smart phone.] 
+[^3]: Of course there are exceptions (computers make certain tasks way more efficient) but I think basic computer literacy has *decreased* since the advent of the smart phone.
 
 Remote working is mentioned in Newport’s book but it is not the main topic. It is conceivable that online meetings will be viewed with the same hushed abhorrence by some knowledge workers as email is today. Alex Lindsay, a digital pioneer in computer graphics and video production, is also a visionary for new technologies. His _[Office Hours](https://www.youtube.com/playlist?list=PLV63HKu9eq2O5BsnB-01ih4oYYDINQfzP)_ initiative is at the leading edge of online events and his opinions on so-called ‘Zoom fatigue’ are authoritative. He believes it’s an issue that can be fixed with good production values. In either case, I feel we must avoid overuse of any medium that is detrimental to basic human needs.
 
@@ -65,7 +65,6 @@ Remote working is mentioned in Newport’s book but it is not the main topic. It
 In my third class of primary school I wrote a project entitled *Communication* using a set of *World Book* encyclopaedias as my sole source of research, tomes in which the 1960s will forever be the future. The weird thing is, the 1960s *still is* the future when it comes to email. The productivity revolution that occurred in manufacturing since Ford’s auto-assembly line has not been witnessed in computer based knowledge work, despite its promising inception. If this is a prospect that seems frightening, consider how it compares to today’s experience of interminable emails sapping our ability to perform meaningful tasks. 
 
 Newport points to a future in which knowledge workers preserve autonomy but are enmeshed in processes that enable constructive work. Slavishly gulping the fire-hose of email messages will not achieve these objectives. We must encourage others to reconsider poor email practices by altering our own behaviour. When the pandemic has receded perhaps we will pause to consider how better to communicate in a hybrid work environment. I look forward to the revolution when it comes. Until then, we are restricted to swapping socially-distanced digital honey sticks.
-
 
 
  
