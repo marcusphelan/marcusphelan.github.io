@@ -70,5 +70,6 @@ In third class in primary school I wrote a project entitled *Communication* usin
 
 Newport points to a future in which knowledge workers preserve autonomy but are enmeshed in processes that enable constructive work. Slavishly gulping the fire-hose of email messages will not achieve these objectives. We must encourage others to reconsider poor email practices by altering our own behaviour. When the pandemic has receded perhaps we will pause to consider how to communicate better in a hybrid work environment. I look forward to the revolution when it comes.
 
+_This page was last updated on Jul 4, 2021 12:38_
 
  
