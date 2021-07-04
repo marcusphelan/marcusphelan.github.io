@@ -58,7 +58,7 @@ Email is information technology’s Achilles’ heel and data security may event
 
 This would be completely impractical in other sectors where security is paramount and there are a lot of data to protect such as banking, but these are typically businesses that can afford high-tech security measures. We need to objectively review where greater efficiencies have been achieced since the advent of using PCs for document management and digital communication and where they have not. A one size fits all approach may not be best.
 
-As customers, we should be more aware of the cost to privacy for services that use our data for purposes that are not in our best interests. The trade-off between privacy and convenience is not always understood and many 'free' applications, like gmail, are only free because they harvest our personal information.  Corporations, or cyber criminals, have no business intercepting sensitive personal information or medical records. I think it's possible to make the case for retaining paper records in these circumstances.
+As customers, we should be more aware of the cost to privacy for services that use our data for purposes that are not in our best interests. The trade-off between privacy and convenience is not always understood and many 'free' applications, like gmail, are only free because they harvest our personal information.  
 
 
 ### Zoom out
