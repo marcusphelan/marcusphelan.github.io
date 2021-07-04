@@ -53,13 +53,6 @@ _A World Without Email_ includes a series of case studies to illustrate alternat
 
 Another solution proposed by Newport is the reconfiguration of roles within organisations. Specialists should not be treated as general purpose workers that spend their days ping-ponging about meeting availability and perfunctorily engaging in ever-expanding email threads of irrelevance. Moreover, he recommends that support units should co-ordinate their activities to minimise disruption to valuable knowledge work. I think it’s important to add that service providers themselves are possibly the hardest hit by email overload, so this is a two-way street.
 
-### Security now
-Email is information technology’s Achilles’ heel and data security may eventually provide an incentive to supersede it with something safer. We may never return to scribbled messages passed through pneumatic tubes (like in the CIA headquarters at Langley) but there may be value in considering a return to analogue communications for specific applications like healthcare. The benefits for privacy and security are significant, despite the downsides. 
-
-This would be completely impractical in other sectors where security is paramount and there are a lot of data to protect such as banking, but these are typically businesses that can afford high-tech security measures. We need to objectively review where greater efficiencies have been achieced since the advent of using PCs for document management and digital communication and where they have not. A one size fits all approach may not be best.
-
-As customers, we should be more aware of the cost to privacy for services that use our data for purposes that are not in our best interests. The trade-off between privacy and convenience is not always understood and many 'free' applications, like gmail, are only free because they harvest our personal information.  
-
 
 ### Zoom out
 Remote working is mentioned in Newport’s book but it is not the main topic. It is conceivable that online meetings will be viewed with the same hushed abhorrence by some knowledge workers as email is today. Alex Lindsay, a digital pioneer in computer graphics and video production, is also a visionary for new technologies. His _[Office Hours](https://www.youtube.com/playlist?list=PLV63HKu9eq2O5BsnB-01ih4oYYDINQfzP)_ initiative is at the leading edge of online events and his opinions on so-called ‘Zoom fatigue’ are authoritative. He believes it’s an issue that can be fixed with good production values. In either case, I feel we must avoid overuse of any medium that is detrimental to basic human needs.
