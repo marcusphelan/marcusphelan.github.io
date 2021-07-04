@@ -15,7 +15,7 @@ Cal Newport’s [_A World Without Email_](https://www.amazon.co.uk/World-Without
 
 >The average knowledge worker now checks email every six minutes.
 
-The modern office worker spends an increasing proportion of their day checking their email at the expense of unbroken work. The author calls this phenomenon the ‘hyperactive hive mind’. As a beekeeper it’s an analogy I am not fond of, but I get the idea. Newport explores the problems raised by this *always on* mental state, by examining the thing located between the chair and the computer screen.
+The modern office worker spends an increasing proportion of their day checking their email at the expense of unbroken work. The author calls this phenomenon the ‘hyperactive hive mind’. As a beekeeper it’s an analogy I am not fond of, but I get the idea. Newport explores the problems raised by this constant state of connectivity, by examining the thing located between the chair and the computer screen.
 
 ### Connected
 As human beings we have an innate need to connect with others. In a University College London study of the Mbendjele BaYaka (hunter-gatherers in the Republic of Congo) the ‘relational wealth’ of individuals was measured by counting the honey sticks that were passed to them by other members of the tribe. By electronically tagging individuals these interactions were recorded and analysed, and shown to be crucial for the social cohesion of the group. An important finding of the study was that one-to-one conversations were absolutely critical in establishing these links.
