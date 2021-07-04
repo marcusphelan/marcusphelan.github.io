@@ -64,7 +64,7 @@ Remote working is mentioned in Newport’s book but it is not the main topic. It
 ### Educate together 
 In third class in primary school I wrote a project entitled *Communication* using a set of *World Book* encyclopaedias as my sole source of research, tomes in which the 1960s will forever be the future. The weird thing is, the 1960s *still is* the future when it comes to email. The productivity revolution that occurred in manufacturing since Ford’s auto-assembly line has not been witnessed in computer based knowledge work, despite its promising inception. If this is a prospect that seems frightening, consider how it compares to today’s experience of interminable emails sapping our ability to perform meaningful tasks. 
 
-Newport points to a future in which knowledge workers preserve autonomy but are enmeshed in processes that enable constructive work. Slavishly gulping the fire-hose of email messages will not achieve these objectives. We must encourage others to reconsider poor email practices by altering our own behaviour. When the pandemic has receded perhaps we will pause to consider how better to communicate in a hybrid work environment. I look forward to the revolution when it comes.
+Newport points to a future in which knowledge workers preserve autonomy but are enmeshed in processes that enable constructive work. Slavishly gulping the fire-hose of email messages will not achieve these objectives. We must encourage others to reconsider poor email practices by altering our own behaviour. When the pandemic has receded perhaps we will pause to consider how to communicate better in a hybrid work environment. I look forward to the revolution when it comes.
 
 
  
