@@ -57,10 +57,13 @@ Another solution proposed by Newport is the reconfiguration of roles within orga
 ### Security now
 Email is information technology’s Achilles’ heel and data security may eventually provide an incentive to supersede it with something safer. We may never return to scribbled messages passed through pneumatic tubes (like in the CIA headquarters at Langley) but there may be value in considering a return to analogue communications for specific applications like healthcare. The benefits for privacy and security are significant, despite the downsides. 
 
-This would be completely impractical in sectors where security is paramount but there is a lot of data to protect, such as banking, but these are typically businesses that can afford high-tech security measures. We need to question whether knowledge workers in general have seen greater efficiencies since the replacement of postal communications and filing cabinets considering the prevalence of poor methods of information capture and retrieval and hard drives of disorganised electronic files[^3].
+This would be completely impractical in sectors where security is paramount but there is a lot of data to protect, such as banking, but these are typically businesses that can afford high-tech security measures. We need to question whether knowledge workers in general have seen greater efficiencies since the replacement of postal communications and filing cabinets. Poor methods of information capture and retrieval and hard drives of disorganised electronic files are all too common.[^3]
+
+As customers, we should be more aware of the cost to privacy for services that use our data for purposes that are not in our best interests. The trade-off between privacy and convenience is not always understood and many 'free' applications, like gmail, are only free because they harvest our personal information. Imagine if corporations, or cyber criminals, had unlimited access to our medical records. I think its possible to make the case for paper records in these circumstances.
 
 [^3]: Of course there are exceptions (computers make certain tasks way more efficient) but I think basic computer literacy has *decreased* since the advent of the smart phone.
 
+### Zoom out
 Remote working is mentioned in Newport’s book but it is not the main topic. It is conceivable that online meetings will be viewed with the same hushed abhorrence by some knowledge workers as email is today. Alex Lindsay, a digital pioneer in computer graphics and video production, is also a visionary for new technologies. His _[Office Hours](https://www.youtube.com/playlist?list=PLV63HKu9eq2O5BsnB-01ih4oYYDINQfzP)_ initiative is at the leading edge of online events and his opinions on so-called ‘Zoom fatigue’ are authoritative. He believes it’s an issue that can be fixed with good production values. In either case, I feel we must avoid overuse of any medium that is detrimental to basic human needs.
 
 ### Educate together 
