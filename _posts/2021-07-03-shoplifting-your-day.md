@@ -8,7 +8,7 @@ tags: tech writing
 ---
 
 ###  Interrupted
-The way we communicate with email has hardly changed since my working life began in the 1990s. Personal computers were by then ubiquitous and increasingly connected to the nascent internet. The advent of email was heralded as an efficiency booster beyond compare, however some argue that it has instead made us miserable.
+The way we communicate with email has hardly changed since my working life began in the 1990s. Personal computers were by then ubiquitous and increasingly connected to the nascent internet. E-mail was heralded as an efficiency booster beyond compare, however some argue that it has instead made us miserable.
 
 Cal Newport’s [_A World Without Email_](https://www.amazon.co.uk/World-Without-Email-Reimagining-Overload/dp/0241341418/) is a critique of email usage and its effect on our ability to get things done. Newport is an Associate Professor of Computer Science at Georgetown University. As an academic he is no doubt subject to the administrative overload caused by the corporatisation of higher level institutions. (The comparison to how his grandfather worked, also a Professor, is telling.)  
 
@@ -56,7 +56,7 @@ Another solution proposed by Newport is the reconfiguration of roles within orga
 ### Security now
 Email is information technology’s Achilles’ heel and data security may eventually provide an incentive to supersede it with something safer. We may never return to scribbled messages passed through pneumatic tubes (like in the CIA headquarters at Langley) but there may be value in considering a return to analogue communications for specific applications like healthcare. The benefits for privacy and security are significant, despite the downsides. 
 
-This would be completely impractical in other sectors where security is paramount and there is a lot of data to protect such as banking, but these are typically businesses that can afford high-tech security measures. We need to question whether knowledge workers in general have seen greater efficiencies since the replacement of postal communications and filing cabinets.Poor methods of information capture and retrieval and hard drives of disorganised electronic files are all too common.[^3]
+This would be completely impractical in other sectors where security is paramount and there is a lot of data to protect such as banking, but these are typically businesses that can afford high-tech security measures. We need to question whether knowledge workers in general have seen greater efficiencies since the replacement of postal communications and filing cabinets. Poor methods of information capture and retrieval and hard drives of disorganised electronic files are all too common.[^3]
 
 As customers, we should be more aware of the cost to privacy for services that use our data for purposes that are not in our best interests. The trade-off between privacy and convenience is not always understood and many 'free' applications, like gmail, are only free because they harvest our personal information.  Corporations, or cyber criminals, have no business intercepting sensitive personal information or medical records. I think it's possible to make the case for retaining paper records in these circumstances.
 
@@ -70,5 +70,6 @@ In third class in primary school I wrote a project entitled *Communication* usin
 
 Newport points to a future in which knowledge workers preserve autonomy but are enmeshed in processes that enable constructive work. Slavishly gulping the fire-hose of email messages will not achieve these objectives. We must encourage others to reconsider poor email practices by altering our own behaviour. When the pandemic has receded perhaps we will pause to consider how to communicate better in a hybrid work environment. I look forward to the revolution when it comes.
 
+_This page was last updated on Jul 4, 2021 12:38_
 
  
