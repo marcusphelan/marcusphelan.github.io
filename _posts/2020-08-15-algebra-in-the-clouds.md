@@ -28,7 +28,7 @@ The term fractal[^1] was introduced by Benoit Mandelbrot, a Polish born French m
 
 [^1]: Based on the Latin work frāctus meaning broken.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id="b005iHf8Z3g" %}
 
 
 The [quadratic recurrence equation](https://mathworld.wolfram.com/MandelbrotSet.html) that describes the Mandelbrot is shown below, where both Z and C are complex numbers.
