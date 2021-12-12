@@ -4,7 +4,7 @@ title: "Algebra in the Clouds"
 categories: misc
 author: Marcus Phelan
 meta: "complexity"
-youtubeId: PD2XgQOyCCk
+youtubeId: b005iHf8Z3g
 mathjax: true
 tags: science philosophy nature music go food books writing
 ---
