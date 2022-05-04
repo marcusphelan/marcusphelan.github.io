@@ -37,7 +37,7 @@ minima:
     # Mastodon instances
     # mastodon:
       - username: marcusphelan
-        instance: mastodon.social
+        instance: mastodon.social.org
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
