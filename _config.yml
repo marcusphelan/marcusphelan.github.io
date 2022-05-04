@@ -36,8 +36,8 @@ minima:
 
     # Mastodon instances
     # mastodon:
-      - username: @marcusphelan@mastodon.social
-    #   instance: mas.to/web/timelines/home
+      - username: marcusphelan
+        instance: mastodon.social
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
