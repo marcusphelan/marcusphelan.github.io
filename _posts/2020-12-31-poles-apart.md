@@ -31,5 +31,4 @@ In this Merrie Land.
 
 Brexit is not the hill on which the U.K. will perish but it's arguably a very poor strategy for success in the _fitness landscape_ of European affairs. In time the self imposed restrictions of sovereignty may dissolve the nebulous ambitions of ‘sunlit uplands’. The next generation of U.K. citizens may not nurture the same feelings of victimhood as their forebears. The current relationship between the U.K. and the EU is on shaky ground, with Ireland in an awkward position. We all need to live alongside each other. I hope the impoverished connections will (again) give way to newer and better bonds, over the next 50 years.
 
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/PublicFreakout/comments/ppo6pe/another_day_in_philadelphia/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="411" width="640" scrolling="no"></iframe>
 
