@@ -60,7 +60,7 @@ Our relationships with each other are equally fraught. Batesman's anthropologica
 
 *The Pale Blue Dot taken by Voyager 1, Credit: NASA/JPL-Caltech*
 
-We must stop ‘othering’ nature as well. Unfortunately, it seems that acting for the greater good is beyond our capacity as a species. We are trapped in a tribal trough, not possessing the escape velocity required to ascend to sustainable and humanitarian lives. What hope do we have in combatting catastrophic species loss (caused by us) if we don’t have sufficient empathy for our own kind?
+We must stop ‘othering’ nature as well. Unfortunately, it seems that acting for the greater good is beyond our capacity as a species. We are trapped in a tribal trough, not possessing the escape velocity to ascend to sustainable and humanitarian lives. What hope do we have in combatting catastrophic species loss (caused by us) if we don’t have sufficient empathy for our own kind?
 
 ## Out of this world
 What will be the repercussions of climate change and the destruction of the natural world if the worst predictions become a reality? The same question is being asked by the mega-rich. They are interested in how their vast wealth could be used to protect them in the event of societal collapse. Presumably money would become quite useless if this scenario comes about. While it may seem like the plot of a Liu Cixin novel or a musty dystopian paperback from the 1970s, this is now where we are at.
