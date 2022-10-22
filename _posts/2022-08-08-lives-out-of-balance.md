@@ -9,7 +9,7 @@ tags: nature politics philosophy
 ---
 
 ### The streets of Philadelphia
-Music has a profound capacity to amplify the emotional impact of visual recordings. Happening upon a video on Reddit last year portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. _Koyaanisqatsi_ is an experimental non-narrative film released in 1982 that beautifully portrays humanity’s relationship with the environment. 
+Music has a profound capacity to amplify the emotional impact of visual recordings. Happening upon a video on Reddit portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. _Koyaanisqatsi_ is an experimental non-narrative film released in 1982 that beautifully portrays humanity’s relationship with the environment. 
 
 >It's not for lack of love of the language that these films have no words. It's because, from my point of view, our language is in a state of vast humiliation. It no longer describes the world in which we live.
 
@@ -69,7 +69,7 @@ The humanist Douglas Rushkoff has spoken about his address to a group of tech bi
 
 To avoid the the worst effects of climate change we must change our systems, in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question for how long will all three options remain available? And we should start treating the environment really well, right now.
 
-_This page was last updated on Oct 23, 2022 00:16_
+_This page was last updated on Oct 23, 2022 00:41_
  
 [^1]: I find myself quoting Roger Waters (of Pink Floyd) a lot. I’ve listened to his records for years and enjoy his body of work, even *Radio Kaos*. However, I feel it necessary to say I strongly disagree with his stance on Russia’s invasion on Ukraine. Nonetheless, his pronouncements on the war in no way diminish his creative output during his career, at least for me. As Ukraine fights against autocracy we must cherish freedom of speech, whether we agree with what is said, or not. 
 
