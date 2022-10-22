@@ -20,18 +20,19 @@ In the Hopi language, the word koyaanisqatsi means crazy life, life in turmoil, 
 I wasn’t aware of the film before I saw the video by u/Sigouste. I subsequently watched it on [iTunes](https://itunes.apple.com/ie/movie/koyaanisqatsi/id262236379) with my eldest daughter and we thoroughly enjoyed it. _Koyaanisqatsi_ is noted for Ron Fricke’s novel use of arial time-lapse cinematography. The images are remarkable, but perhaps have lost some of their original impact due to advances in videography and the ubiquitous drone footage we see today. The marrying of the ominous, mood altering notes of _Prophecies_ with the tragic footage of human waste on the streets of Kensington is sublime. The addicts are so utterly consumed by the narcotic effects of fentanyl and heroin that they are completely doubled over, yet somehow remain upright: strung-out, strung up, opioid puppets. 
 
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/PublicFreakout/comments/ppo6pe/another_day_in_philadelphia/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="411" width="640" scrolling="no"></iframe>
->Original video by YouTuber Kimgary
+
+_Original video by YouTuber Kimgary_
 
 Many of the victims of this crippling addiction served in Iraq, returning home broken by war. Others are driven into prostitution because of it. They are greeted by indifference and the cheap availability of drugs in Kensington, dubbed the ‘Walmart of heroin’, by local pastor Eunice Sanchez.
 
 ### Dead end street
 One morning, 1 December 2014, I was walking along Kildare Street on my way to work, my mind consumed by a minor triviality. I noticed some activity occurring on the street perpendicular to mine, Molesworth Street. A group of medical first responders and Gardai were huddled around the corpse of a homeless man who had died during the night, in view of Leinster House. I have [since found out](https://www.irishtimes.com/news/ireland/irish-news/homeless-man-found-dead-near-dail-eireann-1.2021358) that the man was in his 40s (just like me) and not some ‘auld fella’— in fact 60% of rough sleepers are aged from 25-40.
 
->In the company of has-beens
-And bent-backs and sleeping forms
-On pavement steps…
-I recognise
-Myself, in every stranger's eyes
+>In the company of has-beens  
+And bent-backs and sleeping forms  
+On pavement steps…  
+I recognise  
+Myself, in every stranger's eyes  
 
 >*5.06 AM (Every Strangers Eyes)* from The Pros and Cons of Hitch Hiking by Roger Waters[^1]
 
@@ -40,12 +41,12 @@ What sequence of events terminated with this man’s death under these condition
 ### Soup and sunflowers
 In the developed world our addiction to cars, fast food and cheap consumer goods has transformed our natural desire to persevere into plundering the planet’s resources. However, the greatest of mankind’s labours are admittedly a low-grade imitation of natural processes we can neither tame nor recreate. Some are advocating for a rapid deescalation of our growing rates of consumption. However, environmental activists are often prone to oversimplifying complex societal needs and the environmental systems on which they depend. The acts of middle class kids spilling milk on supermarket floors are difficult to reconcile with their comfortable and resource-intensive lifestyles. None of us can justify sanctimoniousness over our impact on the environment. The instinctive and intellectual wish to return to the ‘garden of Eden’ and our paradoxical appetite for highways and cheeseburgers is perfectly encapsulated in the lyrics of a Talking Heads’ song from the 1988 album *Naked*.
 
->There was a shopping mall
-Now it's all covered with flowers
-You've got it, you've got it
-If this is paradise
-I wish I had a lawnmower
-You've got it, you've got it
+>There was a shopping mall  
+Now it's all covered with flowers  
+You've got it, you've got it  
+If this is paradise  
+I wish I had a lawnmower  
+You've got it, you've got it  
 
 >*(Nothing But) Flowers* by David Byrne 
 
