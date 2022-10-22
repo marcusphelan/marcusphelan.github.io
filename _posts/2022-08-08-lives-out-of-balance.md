@@ -56,6 +56,7 @@ In this model, agriculture flourished in areas with greater ecological variation
 Our relationships with each other are equally fraught. Batesman's anthropological theory of schismogenesis is founded on the idea that people tend to define themselves against each other. Thus, perceptions of difference can legitimise the persecution of our neighbours for personal gain, whether through royal privilege, government or other forms of societal control. However we’re all in the same boat with regard to our common home, planet Earth. 
 
 ![The Pale Blue Dot](/assets/images/jpegPIA23645.png){: .center-image }
+
 *The Pale Blue Dot taken by Voyager 1, Credit: NASA/JPL-Caltech*
 
 We must stop ‘othering’ nature as well. Unfortunately, it seems that acting for the greater good is beyond our capacity as a species. We are trapped in a tribal trough, not possessing the escape velocity required to ascend to sustainable and humanitarian lives. What hope do we have in combatting catastrophic species loss (caused by us) if we don’t have sufficient empathy for our own kind?
