@@ -23,7 +23,7 @@ I wasn’t aware of the film before I saw the video by u/Sigouste. I subsequentl
 
 _Original video by YouTuber Kimgary_
 
-Many of the victims of this crippling addiction served in Iraq, returning home broken by war. Others are driven into prostitution because of it. They are greeted by indifference and the cheap availability of drugs in Kensington, dubbed the ‘Walmart of heroin’, by local pastor Eunice Sanchez.
+Many of the victims of this crippling addiction served in the armed forces overseas, returning home broken by war. Others are driven into prostitution because of it. They are greeted by indifference and the cheap availability of drugs in Kensington, dubbed the ‘Walmart of heroin’, by local pastor Eunice Sanchez.
 
 ### Dead end street
 One morning, 1 December 2014, I was walking along Kildare Street on my way to work, my mind consumed by a minor triviality. I noticed some activity occurring on the street perpendicular to mine, Molesworth Street. A group of medical first responders and Gardai were huddled around the corpse of a homeless man who had died during the night, in view of Leinster House. I have [since found out](https://www.irishtimes.com/news/ireland/irish-news/homeless-man-found-dead-near-dail-eireann-1.2021358) that the man was in his 40s (just like me) and not some ‘auld fella’— in fact 60% of rough sleepers are aged from 25-40.
@@ -69,7 +69,7 @@ The humanist Douglas Rushkoff has spoken about his address to a group of tech bi
 
 To avoid the the worst effects of climate change we must change our systems, in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question for how long will all three options remain available? And we should start treating the environment really well, right now.
 
-_This page was last updated on Oct 23, 2022 00:41_
+_This page was last updated on Oct 23, 2022 00:58_
  
 [^1]: I find myself quoting Roger Waters (of Pink Floyd) a lot. I’ve listened to his records for years and enjoy his body of work, even *Radio Kaos*. However, I feel it necessary to say I strongly disagree with his stance on Russia’s invasion on Ukraine. Nonetheless, his pronouncements on the war in no way diminish his creative output during his career, at least for me. As Ukraine fights against autocracy we must cherish freedom of speech, whether we agree with what is said, or not. 
 
