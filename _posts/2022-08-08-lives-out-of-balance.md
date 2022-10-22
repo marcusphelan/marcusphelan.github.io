@@ -9,7 +9,7 @@ tags: nature politics philosophy
 ---
 
 ### The streets of Philadelphia
-Music has a profound capacity to amplify the emotional impact of visual recordings. This effect is often greater than the sum of its parts. Happening upon a video on Reddit last year portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. _Koyaanisqatsi_ is an experimental non-narrative film released in 1982 that beautifully portrays humanity’s relationship with the environment. 
+Music has a profound capacity to amplify the emotional impact of visual recordings. Happening upon a video on Reddit last year portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. _Koyaanisqatsi_ is an experimental non-narrative film released in 1982 that beautifully portrays humanity’s relationship with the environment. 
 
 In the Hopi language, the word koyaanisqatsi means crazy life, life in turmoil, life out of balance, life disintegrating or a state of life that calls for another way of living. It’s an apt descriptor for the pronounced imbalance between the built and natural environment.
 
