@@ -9,7 +9,7 @@ tags: nature politics philosophy
 ---
 
 ### The streets of Philadelphia
-Music has a profound capacity to amplify the emotional impact of visual recordings. Happening upon a video on Reddit portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. _Koyaanisqatsi_ is an experimental non-narrative film released in 1982 that beautifully portrays humanity’s relationship with the environment. 
+Music has a profound capacity to amplify the emotional impact of visual recordings. Happening upon a video on Reddit portraying the horrors of fentanyl addiction in Kensington, Philadelphia, I was struck by the use of the soundtrack from _Koyaanisqatsi_, scored by Philip Glass. This experimental non-narrative film released in 1982 beautifully portrays humanity’s relationship with the environment. 
 
 >It's not for lack of love of the language that these films have no words. It's because, from my point of view, our language is in a state of vast humiliation. It no longer describes the world in which we live.
 
