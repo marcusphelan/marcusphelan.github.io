@@ -5,7 +5,7 @@ categories: misc
 author: Marcus Phelan
 meta: "architecture"
 youtubeId: 2twY8YQYDBE
-tags: nature politics philosophy
+tags: music nature politics philosophy
 ---
 
 ### The streets of Philadelphia
