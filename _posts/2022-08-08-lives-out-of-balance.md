@@ -67,7 +67,7 @@ What will be the repercussions of climate change and the destruction of the natu
 
 The humanist Douglas Rushkoff has spoken about his address to a group of tech billionaires, given in a remote desert location. They wanted suggestions on ways they could ensure survival in a hostile and chaotic world of apocalyptic climate disaster (including options for off-world existence). They asked how best to remain safe in their bunkers, and how to prevent their security guards from revolting. Rushkoff’s response is telling: ‘treat those people really well, right now’.
 
-To avoid the the worst effects of climate change we must change our systems, in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question for how long will all three options remain available? And we should start treating the environment really well, right now.
+To avoid the the worst effects of climate change we must change our systems, in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question, for how long will all three options remain available? And, even more importantly- we should start treating the environment really well, right now.
 
 _This page was last updated on Oct 23, 2022 00:58_
  
