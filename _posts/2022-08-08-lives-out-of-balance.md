@@ -23,7 +23,7 @@ I wasn’t aware of the film before I saw the video by u/Sigouste. I subsequentl
 
 _Original video by YouTuber Kimgary_
 
-Many of the victims of this crippling addiction served in the armed forces overseas, returning home broken by war. Others are driven into prostitution because of it. They are greeted by indifference and the cheap availability of drugs in Kensington, dubbed the ‘Walmart of heroin’, by local pastor Eunice Sanchez.
+Many of the victims of this crippling addiction served in the armed forces overseas, having returned home broken by war. Others are driven into prostitution because of it. They are greeted by indifference and the cheap availability of drugs in Kensington, dubbed the ‘Walmart of heroin’, by local pastor Eunice Sanchez.
 
 ### Dead end street
 One morning, 1 December 2014, I was walking along Kildare Street on my way to work, my mind consumed by a minor triviality. I noticed some activity occurring on the street perpendicular to mine, Molesworth Street. A group of medical first responders and Gardai were huddled around the corpse of a homeless man who had died during the night, in view of Leinster House. I have [since found out](https://www.irishtimes.com/news/ireland/irish-news/homeless-man-found-dead-near-dail-eireann-1.2021358) that the man was in his 40s (just like me) and not some ‘auld fella’— in fact 60% of rough sleepers are aged from 25-40.
