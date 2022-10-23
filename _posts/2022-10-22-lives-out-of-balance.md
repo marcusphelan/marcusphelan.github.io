@@ -69,7 +69,7 @@ The humanist Douglas Rushkoff has spoken about his address to a group of tech bi
 
 To avoid the the worst effects of climate change we must change our systems, in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question, for how long will all three options remain available? Even more importantly- we should start treating the environment really well, right now.
 
-_This page was last updated on Oct 23, 2022 09:34_
+_This page was last updated on Oct 23, 2022 09:51_
  
-[^1]: I find myself quoting Roger Waters (of Pink Floyd) a lot. I’ve listened to his records for years and enjoy his body of work, even *Radio Kaos*. However, I feel it necessary to say I strongly disagree with his stance on Russia’s invasion on Ukraine. Nonetheless, his pronouncements on the war in no way diminish his creative output during his career, at least for me. As Ukraine fights against autocracy we must cherish freedom of speech, whether we agree with what is said, or not. 
+[^1]: I find myself quoting Roger Waters (of Pink Floyd) a lot. I’ve listened to his records for years and enjoy his body of work, even *Radio Kaos*. However, I feel it necessary to say I strongly disagree with his stance on Russia’s invasion on Ukraine. Nonetheless, his pronouncements on the war in no way diminish his creative output, at least for me. As Ukraine fights against autocracy we must cherish freedom of speech, whether we agree with what is said, or not. 
 
