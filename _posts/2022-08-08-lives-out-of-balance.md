@@ -19,9 +19,7 @@ In the Hopi language, the word koyaanisqatsi means crazy life, life in turmoil, 
 
 I wasn’t aware of the film before I saw the video by u/Sigouste. I subsequently watched it on [iTunes](https://itunes.apple.com/ie/movie/koyaanisqatsi/id262236379) with my eldest daughter and we thoroughly enjoyed it. _Koyaanisqatsi_ is noted for Ron Fricke’s novel use of arial time-lapse cinematography. The images are remarkable, but perhaps have lost some of their original impact due to advances in videography and the ubiquitous drone footage we see today. The marrying of the ominous, mood altering notes of _Prophecies_ from the film soundtrack with the tragic footage of human waste on the streets of Kensington is sublime. The addicts are so utterly consumed by the narcotic effects of fentanyl and heroin that they are completely doubled over, yet somehow remain upright: strung-out, strung up, opioid puppets. 
 
-<div style="text-align:center;width:100%;" >
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/PublicFreakout/comments/ppo6pe/another_day_in_philadelphia/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="411" width="640" scrolling="no"></iframe>
-</div>
 
 _Original video by YouTuber Kimgary_
 
