@@ -65,11 +65,13 @@ We must stop ‘othering’ nature as well. Unfortunately, it seems that acting 
 ## Out of this world
 As the repercussions of climate change and the destruction of the natural world become apparent, questions arise as to the liklihood of the worst-case predictions. The same questions are being asked by the mega-rich. They are interested in how their vast wealth could be used to protect them in the event of societal collapse. Presumably money would become quite useless in this scenario. While it may seem like the plot of a Liu Cixin novel or a musty dystopian paperback from the 1970s, this is now where we are at.
 
-The humanist Douglas Rushkoff has [written](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff) about his keynote address to a group of tech billionaires, given in a remote desert location. They wanted suggestions on ways they can ensure survival in a hostile and chaotic world of apocalyptic climate disaster (including options for off-world existence). They asked how best to remain safe in their bunkers, and to prevent their security guards from revolting. Rushkoff’s response is telling: ‘treat those people really well, right now’.
+The humanist Douglas Rushkoff has [written](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff) about his keynote address to a group of tech billionaires, given in a remote desert location [^2]. They wanted suggestions on ways they can ensure survival in a hostile and chaotic world of apocalyptic climate disaster (including options for off-world existence). They asked how best to remain safe in their bunkers, and to prevent their security guards from revolting. Rushkoff’s response is telling: ‘treat those people really well, right now’.
 
 To avoid the the worst effects of climate change we must change our systems in a meaningful and pragmatic way, not according to unrealistic ideals.  Graeber and Wengrow propose that regime change is only possible through three means: knowledge, charisma and violence. If the same is true for system change it begs the question, for how long will all three options remain available? Even more importantly- we should start treating the environment really well, right now.
 
-_This page was last updated on Oct 23, 2022 11:20_
+_This page was last updated on Oct 29, 2022 21:39_
  
 [^1]: I find myself quoting Roger Waters (of Pink Floyd) a lot. I’ve listened to his records for years and enjoy his body of work, even *Radio Kaos*. However, I feel it necessary to say I strongly disagree with his stance on Russia’s invasion on Ukraine. Nonetheless, his pronouncements on the war in no way diminish his creative output, at least for me. As Ukraine fights against autocracy we must cherish freedom of speech, whether we agree with what is said, or not. 
+
+[^2]: Read about it in Rushkoff's book in [Survival of the Richest: Escape Fantasies of the Tech Billionaires](https://www.amazon.com/dp/0393881067), available on Amazon but please buy from a local bookshop if you can.
 
