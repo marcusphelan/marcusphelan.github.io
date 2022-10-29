@@ -8,7 +8,7 @@ tags: writing tech
 ---
 
 ### House call for Dr Jekyll
-Static sites based on Jekyll that are hosted on GitHub Pages offer advantages over mainstream blogging platforms. There is no cumbersome update regime and once the initial set-up is complete, posts may be conveniently written in Markdown and uploaded. However, proofreading posts in the live environment can cause an unnecessary number of commits. 
+Static sites based on Jekyll that are hosted on GitHub Pages offer advantages over mainstream blogging platforms. There is no cumbersome update regime and once the initial set-up is complete, posts may be conveniently written in Markdown and uploaded. However, proofreading in the live environment can cause an unnecessary number of commits. 
 
 
 To overcome this problem I have installed Jekyll on a Raspberry Pi to serve my site locally from where I can review my posts in the same format as the live site. Installing [Jekyll](https://jekyllrb.com) in the first place is well documented so I will not cover it here.  
