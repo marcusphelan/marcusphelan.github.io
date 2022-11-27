@@ -41,6 +41,9 @@ minima:
     pixelfed:
     - username: marcusphelan
       instance: pixelfed.social 
+    bookwyrm:
+    - username: marcus
+      instance: bookwyrm.social  
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
