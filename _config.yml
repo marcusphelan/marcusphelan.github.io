@@ -38,6 +38,9 @@ minima:
     mastodon:
     - username: marcusphelan
       instance: mastodon.ie
+    pixelfed:
+    - username: marcusphelan
+      instance: pixelfed.social 
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
