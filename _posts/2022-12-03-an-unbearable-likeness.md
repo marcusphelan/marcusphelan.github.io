@@ -10,10 +10,13 @@ tags: music politics books philosophy
 ### Please note your nearest exit 
 In a song from the 1979 Talking Heads album Fear of Music, the singer idealises heaven as a bar where 'nothing ever happens'. It's an interesting metaphor, a place where the band play your favourite song all night long. Not only is everybody perfectly synchronised, but the party repeats in perpetuity. However, there is something slightly disconcerting about this idyllic portrayal.
 
->When this kiss is over, it will start again
-It will not be any different, it will be exactly the same
-It's hard to imagine that nothing at all
-Could be so exciting, could be this much fun
+>When this kiss is over   
+it will start again  
+It will not be any different  
+it will be exactly the same  
+It's hard to imagine that nothing at all  
+Could be so exciting  
+could be this much fun  
 
 >David Byrne and Jerry Harrison
 
