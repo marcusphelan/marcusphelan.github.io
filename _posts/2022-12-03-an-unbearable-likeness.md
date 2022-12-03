@@ -18,7 +18,7 @@ It's hard to imagine that nothing at all
 Could be so exciting  
 could be this much fun  
 
->*Heaven* by David Byrne and Jerry Harrison
+>**Heaven** by David Byrne and Jerry Harrison
 
 Hell has been described in similar terms. In Black Mirror's _White Bear_, the protagonist is forced to re-experience daily punishment and forced amnesia for the crime of killing a child with her partner. This hellish idea and the previous depiction of heaven share a common basis: both are psychological effects caused by infinitely repeated human experiences. The former is presumably joyful (although I doubt it) and the latter obviously tortuous. For me, the quote that encapsulates this phenomenon best is 'hell is other people', from the play _No Exit_ by Jean-Paul Satre, in which three people are locked together in a room for all eternity as punishment for their transgressions. Eschewing red-hot pokers and brimstone, the author identifies the real source of torment as our relationships with those we share our existence with, the Other. 
 
